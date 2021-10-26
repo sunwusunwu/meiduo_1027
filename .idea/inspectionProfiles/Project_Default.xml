@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E712" />
+          <option value="E303" />
+          <option value="E231" />
+          <option value="W292" />
+          <option value="E225" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="dict.replace" />
+          <option value="unittest01.test_tools.op_excel.get_data.nrows" />
+          <option value="unittest01.base.run_method.RunMain.__add__" />
+          <option value="models.Car.objects" />
+          <option value="appdemo02.models.Defect.objects" />
+          <option value="appdemo02.models.Defect.DoesNotExist" />
+          <option value="bookstore.models.Book.objcts" />
+          <option value="bookstore.models.Book.objects" />
+          <option value="tedu_note.user.models.User.objects" />
+          <option value="tedu_note.tedu_note.urls.index" />
+          <option value="tedu_note.index.views.index_views" />
+          <option value="tedu_note.note.models.user" />
+          <option value="tedu_note.note.models.Note.objects" />
+          <option value="tedu_note.tedu_note.settings.os" />
+          <option value="tedu_note.index.models.Content.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
