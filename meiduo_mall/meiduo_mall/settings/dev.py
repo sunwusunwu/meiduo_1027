@@ -217,7 +217,15 @@ LOGGING = {
 
 # DRF配置自定义处理异常
 REST_FRAMEWORK = {
+    #  异常处理
     'EXCEPTION_HANDLER': 'meiduo_mall.utils.exceptions.exception_handler',
+
+    # 认证
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',  # JWT认证类  放在第一位是默认项
+        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.authentication.BasicAuthentication',
+    ),
 }
 
 # 修改django认证系统的用户模块

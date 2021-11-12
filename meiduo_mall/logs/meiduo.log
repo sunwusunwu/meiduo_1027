@@ -1923,3 +1923,86 @@ INFO 2021-11-11 14:32:20,369 basehttp 154 "OPTIONS /authorizations/ HTTP/1.1" 20
 INFO 2021-11-11 14:32:20,680 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
 INFO 2021-11-11 14:33:15,275 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
 INFO 2021-11-11 14:37:22,181 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2021-11-12 15:29:07,646 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-12 15:52:59,480 basehttp 154 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2021-11-12 15:52:59,732 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2021-11-12 15:52:59,795 basehttp 154 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2021-11-12 15:52:59,803 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:52:59,804 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:02,295 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:02,345 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:02,346 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:03,199 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:03,245 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:03,245 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:03,937 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:03,982 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:03,982 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:04,676 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:04,720 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:04,722 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:12,336 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:14,563 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:14,564 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:18,740 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:18,792 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:18,793 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:20,093 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:20,140 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:20,140 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:20,720 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:20,766 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:20,766 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:20,918 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+ERROR 2021-11-12 15:53:20,918 basehttp 154 "POST /authorizations/ HTTP/1.1" 500 59
+INFO 2021-11-12 15:53:22,161 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:22,208 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:22,209 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:23,046 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:23,094 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:23,094 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:23,702 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:23,746 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:23,746 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:24,406 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+WARNING 2021-11-12 15:53:24,457 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:24,458 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:28,954 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:29,001 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:29,001 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:29,704 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:29,748 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:29,749 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:30,232 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:30,278 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:30,279 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:30,888 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:30,935 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:30,936 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:31,565 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:31,610 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:31,610 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:32,385 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:32,433 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:32,434 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:33,093 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:33,138 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:33,138 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:36,592 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:36,688 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:36,689 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 15:53:40,948 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2021-11-12 15:53:41,042 log 228 Forbidden: /user/
+WARNING 2021-11-12 15:53:41,043 basehttp 154 "GET /user/ HTTP/1.1" 403 58
+INFO 2021-11-12 16:01:25,154 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-12 16:01:40,975 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2021-11-12 16:01:41,088 basehttp 154 "GET /user/ HTTP/1.1" 200 82
+INFO 2021-11-12 16:01:52,480 basehttp 154 "OPTIONS /email/ HTTP/1.1" 200 0
+WARNING 2021-11-12 16:01:52,486 log 228 Not Found: /email/
+WARNING 2021-11-12 16:01:52,486 basehttp 154 "PUT /email/ HTTP/1.1" 404 3130
+WARNING 2021-11-12 16:01:57,105 log 228 Not Found: /email/
+WARNING 2021-11-12 16:01:57,105 basehttp 154 "PUT /email/ HTTP/1.1" 404 3130
+INFO 2021-11-12 16:03:10,247 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-12 16:03:18,354 autoreload 203 D:\Python3.7.1\Lib\site-packages\rest_framework\mixins.py changed, reloading.
+INFO 2021-11-12 16:03:20,203 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-12 16:03:22,118 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
