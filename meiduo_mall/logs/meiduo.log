@@ -1772,3 +1772,154 @@ INFO 2021-10-26 21:33:48,124 autoreload 636 Watching for file changes with StatR
 INFO 2021-10-26 21:36:21,177 basehttp 161 "OPTIONS /authorizations/ HTTP/1.1" 200 0
 INFO 2021-10-26 21:36:21,513 basehttp 161 "POST /authorizations/ HTTP/1.1" 200 207
 INFO 2021-10-26 21:37:10,913 basehttp 161 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2021-10-27 15:57:20,559 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-27 16:03:30,343 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-10-27 16:03:31,057 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-27 16:03:42,941 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-27 16:04:11,093 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-27 16:09:19,192 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\migrations\0001_initial.py changed, reloading.
+INFO 2021-10-27 16:09:19,926 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-27 16:09:31,597 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-10-27 16:43:25,218 log 228 Not Found: /
+WARNING 2021-10-27 16:43:25,219 basehttp 154 "GET / HTTP/1.1" 404 2826
+WARNING 2021-10-27 16:43:25,294 log 228 Not Found: /favicon.ico
+WARNING 2021-10-27 16:43:25,294 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2877
+INFO 2021-10-27 16:54:51,797 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2021-10-27 16:54:52,591 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-27 17:02:14,338 basehttp 154 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+WARNING 2021-10-27 17:02:14,590 log 228 Bad Request: /authorizations/
+WARNING 2021-10-27 17:02:14,590 basehttp 154 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-10-27 17:02:41,613 log 228 Bad Request: /authorizations/
+WARNING 2021-10-27 17:02:41,613 basehttp 154 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-10-27 17:02:44,635 log 228 Bad Request: /authorizations/
+WARNING 2021-10-27 17:02:44,635 basehttp 154 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-10-27 17:02:48,281 log 228 Bad Request: /authorizations/
+WARNING 2021-10-27 17:02:48,281 basehttp 154 "POST /authorizations/ HTTP/1.1" 400 68
+INFO 2021-10-27 17:02:55,586 basehttp 154 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
+INFO 2021-10-27 17:03:14,956 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-10-27 17:03:15,016 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-10-27 17:03:15,253 views 26 获取的验证码:349208
+INFO 2021-10-27 17:03:15,425 basehttp 154 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
+INFO 2021-10-27 17:03:25,765 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-10-27 17:03:25,777 basehttp 154 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
+INFO 2021-10-27 17:03:25,785 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-10-27 17:03:26,012 basehttp 154 "POST /users/ HTTP/1.1" 201 314
+INFO 2021-10-27 17:03:33,480 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2021-10-27 17:12:23,151 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-27 17:24:15,943 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2021-10-28 15:25:17,466 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
+INFO 2021-10-28 15:25:33,020 basehttp 154 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
+INFO 2021-10-28 15:25:33,770 views 26 获取的验证码:783388
+INFO 2021-10-28 15:25:33,813 basehttp 154 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
+INFO 2021-10-28 15:25:33,913 basehttp 154 "GET /sms_codes/15556616630/ HTTP/1.1" 200 16
+INFO 2021-10-28 15:27:30,331 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-28 15:27:53,069 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-28 15:28:00,558 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
+INFO 2021-10-28 15:28:01,079 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
+INFO 2021-10-28 15:28:12,122 basehttp 154 "GET /mobiles/15556616631/count/ HTTP/1.1" 200 36
+INFO 2021-10-28 15:28:12,163 views 26 获取的验证码:055369
+INFO 2021-10-28 15:28:12,199 basehttp 154 "GET /mobiles/15556616631/count/ HTTP/1.1" 200 36
+INFO 2021-10-28 15:28:12,302 basehttp 154 "GET /sms_codes/15556616631/ HTTP/1.1" 200 16
+INFO 2021-10-28 15:28:36,762 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
+INFO 2021-10-28 15:28:36,764 basehttp 154 "GET /mobiles/15556616631/count/ HTTP/1.1" 200 36
+INFO 2021-10-28 15:28:36,769 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-10-28 15:35:09,652 basehttp 154 "POST /users/ HTTP/1.1" 201 317
+INFO 2021-10-28 15:36:47,454 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-28 15:37:43,971 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-28 15:38:04,346 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-28 16:21:20,763 basehttp 154 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
+INFO 2021-10-28 16:21:28,277 basehttp 154 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
+INFO 2021-10-28 16:21:28,349 views 26 获取的验证码:026097
+INFO 2021-10-28 16:21:28,394 basehttp 154 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
+INFO 2021-10-28 16:21:28,493 basehttp 154 "GET /sms_codes/15556616632/ HTTP/1.1" 200 16
+INFO 2021-10-28 16:21:37,133 basehttp 154 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
+INFO 2021-10-28 16:21:37,134 basehttp 154 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
+INFO 2021-10-28 16:28:22,040 basehttp 154 "POST /users/ HTTP/1.1" 201 317
+INFO 2021-10-28 16:29:31,558 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\serializers.py changed, reloading.
+INFO 2021-10-28 16:29:33,535 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-28 16:30:18,605 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-28 16:31:07,852 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-28 17:11:19,076 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\serializers.py changed, reloading.
+INFO 2021-10-28 17:11:20,985 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-29 11:58:15,733 autoreload 203 D:\Python3.7.1\Lib\site-packages\rest_framework\mixins.py changed, reloading.
+INFO 2021-10-29 11:58:21,311 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-29 14:15:40,874 basehttp 154 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
+INFO 2021-10-29 14:15:50,189 basehttp 154 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
+INFO 2021-10-29 14:15:51,001 views 26 获取的验证码:379699
+INFO 2021-10-29 14:15:51,039 basehttp 154 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
+INFO 2021-10-29 14:15:51,208 basehttp 154 "GET /sms_codes/15556616633/ HTTP/1.1" 200 16
+INFO 2021-10-29 14:16:02,021 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-10-29 14:16:02,049 basehttp 154 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
+INFO 2021-10-29 14:16:02,058 basehttp 154 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
+WARNING 2021-10-29 14:25:17,574 log 228 Bad Request: /users/
+WARNING 2021-10-29 14:25:22,376 basehttp 154 "POST /users/ HTTP/1.1" 400 43
+INFO 2021-10-29 15:08:38,131 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\serializers.py changed, reloading.
+INFO 2021-10-29 15:08:41,119 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-10-29 15:59:45,750 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\serializers.py changed, reloading.
+INFO 2021-10-29 15:59:47,771 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 14:27:50,083 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-09 14:29:45,742 log 228 Not Found: /oauth/qq/authorization/
+WARNING 2021-11-09 14:29:45,742 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2926
+WARNING 2021-11-09 14:29:47,708 log 228 Not Found: /oauth/qq/authorization/
+WARNING 2021-11-09 14:29:47,708 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2926
+WARNING 2021-11-09 14:29:48,404 log 228 Not Found: /oauth/qq/authorization/
+WARNING 2021-11-09 14:29:48,404 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2926
+WARNING 2021-11-09 14:29:48,596 log 228 Not Found: /oauth/qq/authorization/
+WARNING 2021-11-09 14:29:48,596 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2926
+WARNING 2021-11-09 14:29:48,763 log 228 Not Found: /oauth/qq/authorization/
+WARNING 2021-11-09 14:29:48,763 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2926
+WARNING 2021-11-09 14:29:48,931 log 228 Not Found: /oauth/qq/authorization/
+WARNING 2021-11-09 14:29:48,932 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2926
+WARNING 2021-11-09 14:29:50,539 log 228 Not Found: /oauth/qq/authorization/
+WARNING 2021-11-09 14:29:50,540 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2926
+INFO 2021-11-09 14:32:38,271 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2021-11-09 14:32:39,162 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 14:32:51,416 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2021-11-09 14:32:52,281 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 14:32:58,227 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2021-11-09 14:32:59,090 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 14:34:10,015 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 14:35:47,516 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 14:35:53,533 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2021-11-09 14:37:23,877 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2021-11-09 14:37:23,907 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2021-11-09 14:38:42,307 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2021-11-09 14:38:42,379 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2021-11-09 14:56:53,639 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2021-11-09 16:51:59,227 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 16:52:07,749 basehttp 154 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2021-11-09 16:55:05,811 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\oauth\views.py changed, reloading.
+INFO 2021-11-09 16:55:07,166 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 18:28:35,093 basehttp 154 "GET /usernames/sunwu5/count/ HTTP/1.1" 200 31
+INFO 2021-11-09 18:28:48,032 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
+INFO 2021-11-09 18:28:49,690 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
+INFO 2021-11-09 18:28:49,690 views 26 获取的验证码:965983
+INFO 2021-11-09 18:28:49,917 basehttp 154 "GET /sms_codes/15556616634/ HTTP/1.1" 200 16
+INFO 2021-11-09 18:29:04,639 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-11-09 18:29:04,647 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
+INFO 2021-11-09 18:29:04,648 basehttp 154 "GET /usernames/sunwu5/count/ HTTP/1.1" 200 31
+INFO 2021-11-09 18:29:04,862 basehttp 154 "POST /users/ HTTP/1.1" 201 317
+INFO 2021-11-09 18:29:20,446 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 18:30:32,470 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-09 18:31:09,981 basehttp 154 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
+INFO 2021-11-09 18:31:17,434 basehttp 154 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
+INFO 2021-11-09 18:31:28,235 basehttp 154 "GET /mobiles/15556616636/count/ HTTP/1.1" 200 36
+INFO 2021-11-09 18:31:28,977 views 26 获取的验证码:195000
+INFO 2021-11-09 18:31:29,005 basehttp 154 "GET /mobiles/15556616636/count/ HTTP/1.1" 200 36
+INFO 2021-11-09 18:31:29,118 basehttp 154 "GET /sms_codes/15556616636/ HTTP/1.1" 200 16
+INFO 2021-11-09 18:31:36,545 basehttp 154 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
+INFO 2021-11-09 18:31:36,549 basehttp 154 "GET /mobiles/15556616636/count/ HTTP/1.1" 200 36
+INFO 2021-11-10 13:46:46,466 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-11-10 13:46:46,526 basehttp 154 "GET /mobiles/15556616636/count/ HTTP/1.1" 200 36
+INFO 2021-11-10 13:46:46,530 basehttp 154 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
+WARNING 2021-11-10 13:47:08,363 log 228 Bad Request: /users/
+WARNING 2021-11-10 13:47:08,365 log 228 Bad Request: /users/
+WARNING 2021-11-10 13:47:08,365 basehttp 154 "POST /users/ HTTP/1.1" 400 43
+WARNING 2021-11-10 13:47:08,367 basehttp 154 "POST /users/ HTTP/1.1" 400 43
+ERROR 2021-11-10 13:47:08,368 basehttp 154 "POST /users/ HTTP/1.1" 500 59
+INFO 2021-11-11 12:02:19,280 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\utils.py changed, reloading.
+INFO 2021-11-11 12:02:21,830 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-11 14:32:20,369 basehttp 154 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2021-11-11 14:32:20,680 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2021-11-11 14:33:15,275 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2021-11-11 14:37:22,181 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 207

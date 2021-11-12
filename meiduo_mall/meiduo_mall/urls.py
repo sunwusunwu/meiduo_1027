@@ -18,6 +18,8 @@ from django.urls import path
 from django.conf.urls import url, include
 urlpatterns = [
     path('admin/', admin.site.urls),
-    url(r'^', include('verifications.urls')),
-    url(r'^', include('users.urls')),
+    url(r'^', include('verifications.urls')),  # 发短信模块
+    url(r'^', include('users.urls')),  # 用户模块
+    url(r'^oauth/', include('oauth.urls')),  # QQ模块
+
 ]

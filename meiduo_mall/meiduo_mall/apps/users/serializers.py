@@ -67,7 +67,9 @@ class CreateUserSerializer(serializers.ModelSerializer):
             raise serializers.ValidationError('验证码不正确')
         return attrs
 
-    def create(self, validated_data):
+    @staticmethod
+    def create(validated_data):
+        """保存数据"""
         del validated_data['password2']
         del validated_data['sms_code']
         del validated_data['allow']

@@ -5,7 +5,9 @@ from rest_framework.views import APIView
 from .models import User
 from rest_framework.response import Response
 
+
 class UserView(CreateAPIView):
+    """用户注册"""
     serializer_class = CreateUserSerializer
 
 

@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'users',
     # 'users.apps.UsersConfig',
+    'oauth',
 ]
 
 MIDDLEWARE = [
@@ -84,8 +85,8 @@ DATABASES = {
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'USER': 'root',
-        'PASSWORD': '123456',
-        'NAME': 'meiduo'
+        'PASSWORD': 'sw8569303',
+        'NAME': 'meiduo_01'
     }
 }
 
@@ -237,3 +238,11 @@ JWT_AUTH = {
     # 修改JWT登录视图的构造响应数据的函数
     'JWT_RESPONSE_PAYLOAD_HANDLER': 'users.utils.jwt_response_payload_handler',
 }
+
+# 修改Django用户认证后端类
+AUTHENTICATION_BACKENDS = ['users.utils.UsernameMobileAuthBackend']
+
+# QQ登录参数
+QQ_CLIENT_ID = '101514053'
+QQ_CLIENT_SECRET = '1075e75648566262ea35afa688073012'
+QQ_REDIRECT_URI = 'http://www.meiduo.site:8080/oauth_callback.html'
