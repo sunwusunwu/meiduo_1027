@@ -2006,3 +2006,379 @@ INFO 2021-11-12 16:03:10,247 autoreload 578 Watching for file changes with StatR
 INFO 2021-11-12 16:03:18,354 autoreload 203 D:\Python3.7.1\Lib\site-packages\rest_framework\mixins.py changed, reloading.
 INFO 2021-11-12 16:03:20,203 autoreload 578 Watching for file changes with StatReloader
 INFO 2021-11-12 16:03:22,118 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2021-11-15 22:09:02,962 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:09:24,781 basehttp 161 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+ERROR 2021-11-15 22:09:24,912 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1F9E4910>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:24,913 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:24,914 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:27,140 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB29520>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:27,141 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:27,142 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:30,584 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB6A340>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:30,585 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:30,586 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:30,984 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB6AE20>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:30,985 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:30,986 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:31,154 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB6A220>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:31,156 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:31,157 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:31,537 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB296D0>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:31,537 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:31,538 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:31,719 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB8AF10>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:31,720 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:31,721 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:31,958 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB29B50>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:31,960 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:31,962 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:32,115 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB8A8B0>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:32,116 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:32,117 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:32,295 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB8C7C0>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:32,296 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:32,297 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:32,437 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB6A700>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:32,437 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:32,438 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:32,596 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB29580>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:32,597 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:32,598 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:32,736 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FBA6520>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:32,737 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:32,738 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:37,980 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB8A5E0>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:37,981 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:37,981 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+ERROR 2021-11-15 22:09:38,464 exceptions 17 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x0000015B1FB6AB20>] (1054, "Unknown column 'tb_users.email_active' in 'field list'")
+ERROR 2021-11-15 22:09:38,466 log 224 Insufficient Storage: /authorizations/
+ERROR 2021-11-15 22:09:38,467 basehttp 161 "POST /authorizations/ HTTP/1.1" 507 35
+INFO 2021-11-15 22:13:39,692 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:13:48,978 basehttp 161 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
+INFO 2021-11-15 22:13:53,954 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-11-15 22:13:55,541 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-11-15 22:13:55,710 views 26 获取的验证码:477765
+INFO 2021-11-15 22:13:57,104 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
+INFO 2021-11-15 22:14:04,072 basehttp 161 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-11-15 22:14:04,087 basehttp 161 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
+INFO 2021-11-15 22:14:04,093 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-11-15 22:14:04,469 basehttp 161 "POST /users/ HTTP/1.1" 201 324
+INFO 2021-11-15 22:14:12,325 basehttp 161 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2021-11-15 22:14:14,036 basehttp 161 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2021-11-15 22:14:14,047 basehttp 161 "GET /user/ HTTP/1.1" 200 82
+INFO 2021-11-15 22:15:18,620 basehttp 161 "OPTIONS /email/ HTTP/1.1" 200 0
+ERROR 2021-11-15 22:15:19,018 log 224 Internal Server Error: /email/
+Traceback (most recent call last):
+  File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\python3.9.0\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python3.9.0\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\generics.py", line 227, in put
+    return self.update(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\mixins.py", line 68, in update
+    self.perform_update(serializer)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\mixins.py", line 78, in perform_update
+    serializer.save()
+  File "F:\python3.9.0\lib\site-packages\rest_framework\serializers.py", line 200, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\serializers.py", line 113, in update
+    send_verify_email.delay(instance.email, verify_url=verify_url)
+NameError: name 'send_verify_email' is not defined
+ERROR 2021-11-15 22:15:19,021 basehttp 161 "PUT /email/ HTTP/1.1" 500 111441
+ERROR 2021-11-15 22:15:21,908 log 224 Internal Server Error: /email/
+Traceback (most recent call last):
+  File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\python3.9.0\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python3.9.0\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\generics.py", line 227, in put
+    return self.update(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\mixins.py", line 68, in update
+    self.perform_update(serializer)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\mixins.py", line 78, in perform_update
+    serializer.save()
+  File "F:\python3.9.0\lib\site-packages\rest_framework\serializers.py", line 200, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\serializers.py", line 113, in update
+    send_verify_email.delay(instance.email, verify_url=verify_url)
+NameError: name 'send_verify_email' is not defined
+ERROR 2021-11-15 22:15:21,910 basehttp 161 "PUT /email/ HTTP/1.1" 500 111441
+INFO 2021-11-15 22:15:25,278 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+ERROR 2021-11-15 22:15:27,841 log 224 Internal Server Error: /email/
+Traceback (most recent call last):
+  File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\python3.9.0\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python3.9.0\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\generics.py", line 227, in put
+    return self.update(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\mixins.py", line 68, in update
+    self.perform_update(serializer)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\mixins.py", line 78, in perform_update
+    serializer.save()
+  File "F:\python3.9.0\lib\site-packages\rest_framework\serializers.py", line 200, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\serializers.py", line 113, in update
+    send_verify_email.delay(instance.email, verify_url=verify_url)
+NameError: name 'send_verify_email' is not defined
+ERROR 2021-11-15 22:15:27,842 basehttp 161 "PUT /email/ HTTP/1.1" 500 111441
+ERROR 2021-11-15 22:22:42,621 log 224 Internal Server Error: /email/
+Traceback (most recent call last):
+  File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\python3.9.0\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python3.9.0\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\generics.py", line 227, in put
+    return self.update(request, *args, **kwargs)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\mixins.py", line 68, in update
+    self.perform_update(serializer)
+  File "F:\python3.9.0\lib\site-packages\rest_framework\mixins.py", line 78, in perform_update
+    serializer.save()
+  File "F:\python3.9.0\lib\site-packages\rest_framework\serializers.py", line 200, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\serializers.py", line 113, in update
+    send_verify_email.delay(instance.email, verify_url=verify_url)
+NameError: name 'send_verify_email' is not defined
+ERROR 2021-11-15 22:22:42,623 basehttp 161 "PUT /email/ HTTP/1.1" 500 111441
+INFO 2021-11-15 22:23:42,790 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:23:43,652 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:23:55,735 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:23:56,648 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:24:00,445 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:24:01,313 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:24:20,381 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:24:21,405 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:24:36,180 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:24:37,096 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:24:43,470 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:24:44,346 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:24:51,650 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:24:52,836 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:25:02,133 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:25:03,205 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:25:14,860 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:25:15,977 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:25:21,005 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:25:21,876 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:25:32,691 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:25:33,723 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:25:45,944 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:25:46,812 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:25:51,921 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:25:53,189 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:25:57,336 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:25:58,395 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:26:12,416 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:26:13,329 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:27:48,940 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:27:49,812 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:28:04,897 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:28:05,906 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:28:29,525 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:28:30,488 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:28:51,833 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:28:52,855 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:06,803 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:07,683 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:10,878 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:12,037 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:17,163 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:18,168 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:20,960 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:21,969 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:25,834 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:26,890 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:31,102 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:32,271 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:34,482 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:35,509 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:39,584 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:40,495 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:29:43,498 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:29:44,639 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:30:03,928 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:30:05,217 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:30:09,152 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:30:10,233 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:30:16,334 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:30:17,482 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:30:26,056 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:30:27,162 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:30:39,230 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:30:40,195 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:30:53,247 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:30:54,430 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:31:07,025 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:31:08,074 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:31:22,100 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:31:23,151 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:31:37,274 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:31:38,397 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:32:07,937 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:32:08,795 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:32:16,194 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:32:17,317 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:32:25,905 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:32:26,860 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:32:28,868 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 22:32:29,784 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:32:51,463 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:32:52,395 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:33:16,715 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:33:17,644 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:33:34,879 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:33:36,060 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:33:49,883 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:33:50,753 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:33:58,327 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:33:59,284 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:34:02,272 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:34:03,533 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:34:07,718 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:34:08,991 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:34:12,038 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:34:12,979 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:34:18,141 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:34:19,160 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:34:27,733 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:34:28,654 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:34:54,797 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:34:55,769 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:35:24,216 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:35:25,044 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:35:29,496 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:35:30,417 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:35:34,836 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:35:35,770 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:35:47,551 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:35:48,388 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:35:55,025 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:35:55,866 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:36:10,769 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:36:11,589 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:36:56,863 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:36:57,705 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:37:05,274 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:37:06,083 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:37:31,387 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:37:32,335 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:37:33,678 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:37:34,550 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:37:41,066 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:37:42,052 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:37:43,359 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:37:44,305 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:37:48,683 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:37:49,740 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:37:55,104 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:37:56,243 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:38:01,555 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:38:02,577 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:38:05,922 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:38:06,843 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:38:08,084 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:38:08,983 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:38:14,529 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:38:15,471 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:38:29,435 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:38:30,539 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:38:38,072 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:38:39,123 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:39:10,956 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:39:11,730 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:39:25,571 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:39:26,531 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:39:44,517 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:39:45,327 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:39:55,008 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:39:55,791 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:40:01,237 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:40:02,142 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:40:06,612 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:40:07,617 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:40:12,138 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:40:13,172 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:40:34,928 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:40:35,898 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:41:11,296 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-15 22:41:12,296 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:41:54,585 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:42:37,978 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2021-11-15 22:42:38,812 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:42:42,758 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2021-11-15 22:42:43,871 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:43:29,262 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:53:29,902 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:53:36,295 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-15 22:56:26,159 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 22:57:09,906 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-15 22:57:11,256 basehttp 161 "PUT /email/ HTTP/1.1" 200 36
+INFO 2021-11-15 23:00:47,476 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-15 23:00:48,404 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 23:01:47,332 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-15 23:01:48,336 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 23:02:13,452 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-15 23:02:14,344 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 23:02:43,237 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-15 23:02:44,177 basehttp 161 "PUT /email/ HTTP/1.1" 200 36
+INFO 2021-11-15 23:03:58,430 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-15 23:03:59,507 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 23:04:46,789 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-15 23:04:55,954 basehttp 161 "PUT /email/ HTTP/1.1" 200 36
+INFO 2021-11-15 23:09:16,335 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2021-11-15 23:09:17,211 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 23:09:45,373 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-15 23:09:50,501 basehttp 161 "PUT /email/ HTTP/1.1" 200 36
+INFO 2021-11-15 23:10:55,550 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-15 23:11:07,982 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-15 23:11:10,646 basehttp 161 "PUT /email/ HTTP/1.1" 200 36
+INFO 2021-11-15 23:11:16,518 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-15 23:11:30,340 basehttp 161 "PUT /email/ HTTP/1.1" 200 36

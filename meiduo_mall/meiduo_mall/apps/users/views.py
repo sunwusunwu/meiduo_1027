@@ -1,10 +1,11 @@
 from django.shortcuts import render
-from rest_framework.generics import CreateAPIView, RetrieveAPIView
-from .serializers import CreateUserSerializer, UserDetailSerializer
+from rest_framework.generics import CreateAPIView, RetrieveAPIView, UpdateAPIView
+from .serializers import CreateUserSerializer, UserDetailSerializer, EmailSerializer
 from rest_framework.views import APIView
 from .models import User
 from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
+from rest_framework import status
 
 
 class UserView(CreateAPIView):
@@ -41,3 +42,27 @@ class UserDetailView(RetrieveAPIView):
 
     def get_object(self):
         return self.request.user
+
+
+class EmailView(UpdateAPIView):
+    """保存邮箱"""
+    permission_classes = [IsAuthenticated]
+    serializer_class = EmailSerializer
+
+    def get_object(self):
+        return  self.request.user
+
+
+class EmailVerifyView(APIView):
+    """激活邮箱"""
+    def get(self, request):
+        # 获取token
+        token = request.query_params.get('token')
+        if not token:
+            return Response({'message':'用户信息异常'}, status=status.HTTP_400_BAD_REQUEST)
+        # 解密token查询user
+        user = User.check_verify_email_token(token)
+        if user is None:
+            return Response({'message': '激活失败'}, status=status.HTTP_400_BAD_REQUEST)
+        user.is_active = True
+        user.save()
