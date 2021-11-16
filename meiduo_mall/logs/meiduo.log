@@ -2006,3 +2006,23 @@ INFO 2021-11-12 16:03:10,247 autoreload 578 Watching for file changes with StatR
 INFO 2021-11-12 16:03:18,354 autoreload 203 D:\Python3.7.1\Lib\site-packages\rest_framework\mixins.py changed, reloading.
 INFO 2021-11-12 16:03:20,203 autoreload 578 Watching for file changes with StatReloader
 INFO 2021-11-12 16:03:22,118 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2021-11-12 16:08:11,814 basehttp 154 "GET /user/ HTTP/1.1" 200 82
+INFO 2021-11-12 16:18:24,668 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2021-11-12 16:19:08,879 basehttp 154 "GET /user/ HTTP/1.1" 200 82
+INFO 2021-11-12 16:20:25,617 basehttp 154 "GET /user/ HTTP/1.1" 200 82
+INFO 2021-11-15 11:39:31,459 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 11:39:33,959 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-15 11:45:44,878 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 11:45:46,719 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-15 11:48:12,774 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-15 11:48:14,658 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-15 14:17:44,061 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-15 14:17:46,366 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-15 14:22:16,407 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-15 14:22:18,405 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-15 14:22:40,862 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-15 14:22:42,798 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-15 14:22:55,082 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-15 14:22:56,894 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 10:07:54,616 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-16 10:07:56,812 autoreload 578 Watching for file changes with StatReloader
