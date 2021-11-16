@@ -220,7 +220,7 @@ INFO 2021-10-17 14:28:46,093 views 17 006989
 INFO 2021-10-17 14:28:46,274 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 5279
 INFO 2021-10-17 14:30:48,852 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-17 14:30:49,796 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-17 14:30:50,377 views 17 »ñÈ¡µÄÑéÖ¤Âë:000747
+INFO 2021-10-17 14:30:50,377 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:000747
 INFO 2021-10-17 14:30:50,732 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 5279
 INFO 2021-10-17 19:44:12,770 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
 INFO 2021-10-17 19:44:14,008 autoreload 636 Watching for file changes with StatReloader
@@ -238,69 +238,69 @@ INFO 2021-10-17 20:27:04,599 autoreload 636 Watching for file changes with StatR
 INFO 2021-10-17 20:27:14,284 autoreload 636 Watching for file changes with StatReloader
 WARNING 2021-10-17 20:29:32,709 log 224 Not Found: /
 WARNING 2021-10-17 20:29:32,709 basehttp 161 "GET / HTTP/1.1" 404 2254
-INFO 2021-10-17 20:29:51,305 views 17 »ñÈ¡µÄÑéÖ¤Âë:004775
+INFO 2021-10-17 20:29:51,305 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:004775
 INFO 2021-10-17 20:29:51,482 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 5279
-INFO 2021-10-17 20:44:21,436 views 17 »ñÈ¡µÄÑéÖ¤Âë:003692
+INFO 2021-10-17 20:44:21,436 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:003692
 INFO 2021-10-17 20:44:21,614 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 5279
 WARNING 2021-10-17 20:44:49,026 log 224 Not Found: /
 WARNING 2021-10-17 20:44:49,027 basehttp 161 "GET / HTTP/1.1" 404 2254
-INFO 2021-10-17 20:44:56,876 views 17 »ñÈ¡µÄÑéÖ¤Âë:006751
+INFO 2021-10-17 20:44:56,876 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:006751
 INFO 2021-10-17 20:44:57,025 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 5279
 INFO 2021-10-17 22:07:43,624 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-17 22:07:51,475 views 17 »ñÈ¡µÄÑéÖ¤Âë:008399
+INFO 2021-10-17 22:07:51,475 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:008399
 ERROR 2021-10-17 22:07:51,487 exceptions 17 [<verifications.views.SMSCodeView object at 0x000001E0DE8BADF0>] MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
 ERROR 2021-10-17 22:07:51,511 log 224 Insufficient Storage: /sms_codes/15805600944/
 ERROR 2021-10-17 22:07:51,512 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 507 5316
-INFO 2021-10-17 22:08:00,487 views 17 »ñÈ¡µÄÑéÖ¤Âë:005379
+INFO 2021-10-17 22:08:00,487 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:005379
 ERROR 2021-10-17 22:08:00,488 exceptions 17 [<verifications.views.SMSCodeView object at 0x000001E0DE75FFA0>] MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
 ERROR 2021-10-17 22:08:00,502 log 224 Insufficient Storage: /sms_codes/15805600944/
 ERROR 2021-10-17 22:08:00,502 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 507 5316
-INFO 2021-10-17 22:08:02,308 views 17 »ñÈ¡µÄÑéÖ¤Âë:006737
+INFO 2021-10-17 22:08:02,308 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:006737
 ERROR 2021-10-17 22:08:02,308 exceptions 17 [<verifications.views.SMSCodeView object at 0x000001E0DE8F0070>] MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
 ERROR 2021-10-17 22:08:02,322 log 224 Insufficient Storage: /sms_codes/15805600944/
 ERROR 2021-10-17 22:08:02,322 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 507 5316
-INFO 2021-10-17 22:08:02,632 views 17 »ñÈ¡µÄÑéÖ¤Âë:009401
+INFO 2021-10-17 22:08:02,632 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:009401
 ERROR 2021-10-17 22:08:02,633 exceptions 17 [<verifications.views.SMSCodeView object at 0x000001E0DE795310>] MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
 ERROR 2021-10-17 22:08:02,645 log 224 Insufficient Storage: /sms_codes/15805600944/
 ERROR 2021-10-17 22:08:02,645 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 507 5316
-INFO 2021-10-17 22:08:02,780 views 17 »ñÈ¡µÄÑéÖ¤Âë:002187
+INFO 2021-10-17 22:08:02,780 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:002187
 ERROR 2021-10-17 22:08:02,781 exceptions 17 [<verifications.views.SMSCodeView object at 0x000001E0DE909C70>] MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
 ERROR 2021-10-17 22:08:02,794 log 224 Insufficient Storage: /sms_codes/15805600944/
 ERROR 2021-10-17 22:08:02,794 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 507 5316
-INFO 2021-10-17 22:09:51,563 views 17 »ñÈ¡µÄÑéÖ¤Âë:004763
+INFO 2021-10-17 22:09:51,563 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:004763
 ERROR 2021-10-17 22:09:51,564 exceptions 17 [<verifications.views.SMSCodeView object at 0x000001E0DE7C5670>] MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
 ERROR 2021-10-17 22:09:51,576 log 224 Insufficient Storage: /sms_codes/15805600944/
 ERROR 2021-10-17 22:09:51,577 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 507 5316
-INFO 2021-10-17 22:09:51,824 views 17 »ñÈ¡µÄÑéÖ¤Âë:009644
+INFO 2021-10-17 22:09:51,824 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:009644
 ERROR 2021-10-17 22:09:51,825 exceptions 17 [<verifications.views.SMSCodeView object at 0x000001E0DE8647C0>] MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
 ERROR 2021-10-17 22:09:51,836 log 224 Insufficient Storage: /sms_codes/15805600944/
 ERROR 2021-10-17 22:09:51,836 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 507 5316
 INFO 2021-10-17 22:18:41,643 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-17 22:18:49,359 views 17 »ñÈ¡µÄÑéÖ¤Âë:007468
+INFO 2021-10-17 22:18:49,359 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:007468
 ERROR 2021-10-17 22:18:49,367 exceptions 17 [<verifications.views.SMSCodeView object at 0x0000018268520CD0>] MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
 ERROR 2021-10-17 22:18:49,393 log 224 Insufficient Storage: /sms_codes/15805600944/
 ERROR 2021-10-17 22:18:49,394 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 507 5316
 INFO 2021-10-17 22:21:16,446 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-17 22:21:27,082 views 17 »ñÈ¡µÄÑéÖ¤Âë:008951
+INFO 2021-10-17 22:21:27,082 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:008951
 INFO 2021-10-17 22:21:28,341 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 5279
 WARNING 2021-10-17 22:21:41,844 log 224 Not Found: /
 WARNING 2021-10-17 22:21:41,844 basehttp 161 "GET / HTTP/1.1" 404 2254
 WARNING 2021-10-17 22:21:43,961 log 224 Not Found: /
 WARNING 2021-10-17 22:21:43,961 basehttp 161 "GET / HTTP/1.1" 404 2254
-INFO 2021-10-17 22:21:44,135 views 17 »ñÈ¡µÄÑéÖ¤Âë:004086
+INFO 2021-10-17 22:21:44,135 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:004086
 INFO 2021-10-17 22:21:44,306 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 5279
-INFO 2021-10-17 22:22:31,225 views 17 »ñÈ¡µÄÑéÖ¤Âë:007388
+INFO 2021-10-17 22:22:31,225 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:007388
 INFO 2021-10-17 22:22:31,405 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 5279
 INFO 2021-10-17 22:36:25,021 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-17 22:37:29,322 views 17 »ñÈ¡µÄÑéÖ¤Âë:003302
+INFO 2021-10-17 22:37:29,322 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:003302
 INFO 2021-10-17 22:37:29,483 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 16
-INFO 2021-10-18 21:12:42,022 views 17 »ñÈ¡µÄÑéÖ¤Âë:009246
+INFO 2021-10-18 21:12:42,022 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:009246
 INFO 2021-10-18 21:12:42,244 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 16
 INFO 2021-10-18 21:36:14,475 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
 INFO 2021-10-18 21:36:15,761 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-18 21:36:54,209 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-18 21:37:20,184 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-18 21:37:35,316 views 17 »ñÈ¡µÄÑéÖ¤Âë:007367
+INFO 2021-10-18 21:37:35,316 views 17 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:007367
 INFO 2021-10-18 21:37:35,573 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 16
 INFO 2021-10-18 22:07:17,932 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-18 22:07:19,175 autoreload 636 Watching for file changes with StatReloader
@@ -330,11 +330,11 @@ INFO 2021-10-18 22:10:16,379 autoreload 250 C:\Users\Administrator\Desktop\meidu
 INFO 2021-10-18 22:10:17,668 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-18 22:11:55,750 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-18 22:11:56,909 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-18 22:12:02,530 views 24 »ñÈ¡µÄÑéÖ¤Âë:004560
+INFO 2021-10-18 22:12:02,530 views 24 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:004560
 INFO 2021-10-18 22:12:02,661 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 16
 WARNING 2021-10-18 22:12:06,605 log 224 Bad Request: /sms_codes/15805600944/
 WARNING 2021-10-18 22:12:06,605 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 400 41
-INFO 2021-10-18 22:12:15,357 views 24 »ñÈ¡µÄÑéÖ¤Âë:008805
+INFO 2021-10-18 22:12:15,357 views 24 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:008805
 INFO 2021-10-18 22:12:15,858 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 WARNING 2021-10-18 22:12:22,056 log 224 Bad Request: /sms_codes/15556616638/
 WARNING 2021-10-18 22:12:22,057 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 400 41
@@ -342,7 +342,7 @@ INFO 2021-10-18 22:12:52,210 autoreload 250 C:\Users\Administrator\Desktop\meidu
 INFO 2021-10-18 22:12:53,325 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-18 22:20:49,100 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-18 22:20:50,134 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-18 22:20:53,697 views 24 »ñÈ¡µÄÑéÖ¤Âë:003545
+INFO 2021-10-18 22:20:53,697 views 24 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:003545
 INFO 2021-10-18 22:20:53,864 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-18 22:36:49,104 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-18 22:36:50,249 autoreload 636 Watching for file changes with StatReloader
@@ -356,7 +356,7 @@ INFO 2021-10-18 22:37:54,121 autoreload 250 C:\Users\Administrator\Desktop\meidu
 INFO 2021-10-18 22:37:55,630 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-18 22:38:07,450 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-18 22:38:08,418 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-18 22:38:17,651 views 24 »ñÈ¡µÄÑéÖ¤Âë:003442
+INFO 2021-10-18 22:38:17,651 views 24 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:003442
 ERROR 2021-10-18 22:38:17,947 log 224 Internal Server Error: /sms_codes/15556616638/
 Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
@@ -379,7 +379,7 @@ Traceback (most recent call last):
     pl.excute()
 AttributeError: 'Pipeline' object has no attribute 'excute'
 ERROR 2021-10-18 22:38:17,949 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 500 94557
-INFO 2021-10-18 22:38:21,769 views 24 »ñÈ¡µÄÑéÖ¤Âë:001061
+INFO 2021-10-18 22:38:21,769 views 24 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:001061
 ERROR 2021-10-18 22:38:21,812 log 224 Internal Server Error: /sms_codes/15556616638/
 Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
@@ -402,7 +402,7 @@ Traceback (most recent call last):
     pl.excute()
 AttributeError: 'Pipeline' object has no attribute 'excute'
 ERROR 2021-10-18 22:38:21,813 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 500 94557
-INFO 2021-10-18 22:39:54,810 views 24 »ñÈ¡µÄÑéÖ¤Âë:009630
+INFO 2021-10-18 22:39:54,810 views 24 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:009630
 ERROR 2021-10-18 22:39:54,866 log 224 Internal Server Error: /sms_codes/15556616638/
 Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
@@ -425,7 +425,7 @@ Traceback (most recent call last):
     pl.excute()
 AttributeError: 'Pipeline' object has no attribute 'excute'
 ERROR 2021-10-18 22:39:54,867 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 500 94557
-INFO 2021-10-18 22:39:57,148 views 24 »ñÈ¡µÄÑéÖ¤Âë:007260
+INFO 2021-10-18 22:39:57,148 views 24 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:007260
 ERROR 2021-10-18 22:39:57,201 log 224 Internal Server Error: /sms_codes/15556616638/
 Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
@@ -450,7 +450,7 @@ AttributeError: 'Pipeline' object has no attribute 'excute'
 ERROR 2021-10-18 22:39:57,202 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 500 95365
 INFO 2021-10-18 22:40:20,764 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-18 22:40:22,047 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-18 22:40:28,235 views 24 »ñÈ¡µÄÑéÖ¤Âë:003417
+INFO 2021-10-18 22:40:28,235 views 24 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:003417
 INFO 2021-10-18 22:40:34,085 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-20 21:09:28,110 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-20 21:09:33,373 autoreload 636 Watching for file changes with StatReloader
@@ -465,9 +465,9 @@ INFO 2021-10-21 22:00:34,258 autoreload 636 Watching for file changes with StatR
 INFO 2021-10-21 22:03:01,618 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 22:03:03,041 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 22:03:24,925 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:04:12,370 views 26 »ñÈ¡µÄÑéÖ¤Âë:006591
+INFO 2021-10-21 22:04:12,370 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:006591
 INFO 2021-10-21 22:04:12,995 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
-INFO 2021-10-21 22:05:19,187 views 26 »ñÈ¡µÄÑéÖ¤Âë:008793
+INFO 2021-10-21 22:05:19,187 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:008793
 INFO 2021-10-21 22:05:19,191 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 22:10:41,325 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\celery_tasks\main.py changed, reloading.
 INFO 2021-10-21 22:10:42,477 autoreload 636 Watching for file changes with StatReloader
@@ -475,13 +475,13 @@ INFO 2021-10-21 22:12:04,920 autoreload 250 C:\Users\Administrator\Desktop\meidu
 INFO 2021-10-21 22:12:05,836 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 22:12:56,340 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 22:12:57,438 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:13:05,117 views 26 »ñÈ¡µÄÑéÖ¤Âë:006666
+INFO 2021-10-21 22:13:05,117 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:006666
 INFO 2021-10-21 22:13:05,184 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 22:14:54,353 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 22:14:55,281 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:15:17,706 views 26 »ñÈ¡µÄÑéÖ¤Âë:004510
+INFO 2021-10-21 22:15:17,706 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:004510
 INFO 2021-10-21 22:15:17,782 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
-INFO 2021-10-21 22:19:43,460 views 26 »ñÈ¡µÄÑéÖ¤Âë:003153
+INFO 2021-10-21 22:19:43,460 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:003153
 INFO 2021-10-21 22:19:43,464 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 22:21:43,554 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\celery_tasks\sms\yuntongxun\sms.py changed, reloading.
 INFO 2021-10-21 22:21:44,457 autoreload 636 Watching for file changes with StatReloader
@@ -491,7 +491,7 @@ INFO 2021-10-21 22:22:21,606 autoreload 250 C:\Users\Administrator\Desktop\meidu
 INFO 2021-10-21 22:22:22,552 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 22:22:41,213 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\celery_tasks\sms\yuntongxun\sms.py changed, reloading.
 INFO 2021-10-21 22:22:42,129 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:23:07,484 views 26 »ñÈ¡µÄÑéÖ¤Âë:007505
+INFO 2021-10-21 22:23:07,484 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:007505
 INFO 2021-10-21 22:23:07,556 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 22:30:58,138 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\celery_tasks\sms\yuntongxun\sms.py changed, reloading.
 INFO 2021-10-21 22:30:59,242 autoreload 636 Watching for file changes with StatReloader
@@ -499,14 +499,14 @@ INFO 2021-10-21 22:35:43,697 autoreload 250 C:\Users\Administrator\Desktop\meidu
 INFO 2021-10-21 22:35:44,613 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 22:36:34,001 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\celery_tasks\sms\yuntongxun\sms.py changed, reloading.
 INFO 2021-10-21 22:36:34,895 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:36:41,410 views 26 »ñÈ¡µÄÑéÖ¤Âë:003566
+INFO 2021-10-21 22:36:41,410 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:003566
 INFO 2021-10-21 22:36:41,481 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 22:41:30,565 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\celery_tasks\sms\tasks.py changed, reloading.
 INFO 2021-10-21 22:41:31,542 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:41:59,526 views 26 »ñÈ¡µÄÑéÖ¤Âë:008251
+INFO 2021-10-21 22:41:59,526 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:008251
 INFO 2021-10-21 22:41:59,592 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 22:47:08,069 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:47:30,842 views 26 »ñÈ¡µÄÑéÖ¤Âë:006316
+INFO 2021-10-21 22:47:30,842 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:006316
 ERROR 2021-10-21 22:47:31,145 log 224 Internal Server Error: /sms_codes/15556616638/
 Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
@@ -526,31 +526,31 @@ Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 506, in dispatch
     response = handler(request, *args, **kwargs)
   File "C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 38, in get
-    logger.info("·¢ËÍ¶ÌÐÅ½á¹û:" + res)
+    logger.info("ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:" + res)
 TypeError: can only concatenate str (not "AsyncResult") to str
 ERROR 2021-10-21 22:47:31,149 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 500 94510
 INFO 2021-10-21 22:50:24,167 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 22:50:25,250 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:50:42,058 views 26 »ñÈ¡µÄÑéÖ¤Âë:004332
-INFO 2021-10-21 22:50:42,124 views 38 ·¢ËÍ¶ÌÐÅ½á¹û:35fe220f-6fac-4ad3-b74d-76959855f818
+INFO 2021-10-21 22:50:42,058 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:004332
+INFO 2021-10-21 22:50:42,124 views 38 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:35fe220f-6fac-4ad3-b74d-76959855f818
 INFO 2021-10-21 22:50:42,125 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 22:56:33,996 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 22:56:35,330 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 22:56:38,811 views 26 »ñÈ¡µÄÑéÖ¤Âë:007847
+INFO 2021-10-21 22:56:38,811 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:007847
 INFO 2021-10-21 22:56:38,880 views 38 mobile:15556616638/
 INFO 2021-10-21 22:56:38,881 views 39 sms_code:007847
-INFO 2021-10-21 22:56:38,881 views 40 ·¢ËÍ¶ÌÐÅ½á¹û:242cf435-efcd-4570-8a76-8814e8d60df4
+INFO 2021-10-21 22:56:38,881 views 40 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:242cf435-efcd-4570-8a76-8814e8d60df4
 INFO 2021-10-21 22:56:38,882 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
-INFO 2021-10-21 22:57:50,759 views 26 »ñÈ¡µÄÑéÖ¤Âë:008978
+INFO 2021-10-21 22:57:50,759 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:008978
 INFO 2021-10-21 22:57:50,762 views 38 mobile:15556616638/
 INFO 2021-10-21 22:57:50,762 views 39 sms_code:008978
-INFO 2021-10-21 22:57:50,763 views 40 ·¢ËÍ¶ÌÐÅ½á¹û:166e6413-ba97-4b63-9859-bd4885b2eee5
+INFO 2021-10-21 22:57:50,763 views 40 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:166e6413-ba97-4b63-9859-bd4885b2eee5
 INFO 2021-10-21 22:57:50,764 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 23:02:33,080 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:02:41,560 views 26 »ñÈ¡µÄÑéÖ¤Âë:005659
+INFO 2021-10-21 23:02:41,560 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:005659
 INFO 2021-10-21 23:02:41,627 views 38 mobile:15556616638
 INFO 2021-10-21 23:02:41,627 views 39 sms_code:005659
-INFO 2021-10-21 23:02:41,628 views 40 ·¢ËÍ¶ÌÐÅ½á¹û:732ff658-d111-40aa-bcf4-d2504d733a4d
+INFO 2021-10-21 23:02:41,628 views 40 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:732ff658-d111-40aa-bcf4-d2504d733a4d
 INFO 2021-10-21 23:02:41,629 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 23:04:54,894 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:04:56,011 autoreload 636 Watching for file changes with StatReloader
@@ -559,7 +559,7 @@ INFO 2021-10-21 23:05:16,720 autoreload 636 Watching for file changes with StatR
 INFO 2021-10-21 23:07:46,091 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\celery_tasks\sms\tasks.py changed, reloading.
 INFO 2021-10-21 23:07:47,353 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 23:17:52,029 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:18:07,102 views 26 »ñÈ¡µÄÑéÖ¤Âë:008840
+INFO 2021-10-21 23:18:07,102 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:008840
 INFO 2021-10-21 23:18:07,102 views 37 mobile:15556616638
 INFO 2021-10-21 23:18:07,103 views 38 sms_code:008840
 INFO 2021-10-21 23:18:07,166 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
@@ -571,7 +571,7 @@ INFO 2021-10-21 23:28:16,073 autoreload 250 C:\Users\Administrator\Desktop\meidu
 INFO 2021-10-21 23:28:17,002 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 23:28:43,218 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:28:44,242 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:28:48,776 views 26 »ñÈ¡µÄÑéÖ¤Âë:001844
+INFO 2021-10-21 23:28:48,776 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:001844
 INFO 2021-10-21 23:28:48,777 views 37 mobile:15556616638
 INFO 2021-10-21 23:28:48,777 views 38 sms_code:001844
 ERROR 2021-10-21 23:28:48,935 log 224 Internal Server Error: /sms_codes/15556616638/
@@ -593,7 +593,7 @@ Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 506, in dispatch
     response = handler(request, *args, **kwargs)
   File "C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 40, in get
-    logger.info("·¢ËÍ¶ÌÐÅ½á¹û:" + str(res.result))
+    logger.info("ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:" + str(res.result))
   File "F:\python3.9.0\lib\site-packages\celery\result.py", line 440, in result
     return self._get_task_meta()['result']
   File "F:\python3.9.0\lib\site-packages\celery\result.py", line 416, in _get_task_meta
@@ -603,7 +603,7 @@ Traceback (most recent call last):
 AttributeError: 'DisabledBackend' object has no attribute '_get_task_meta_for'
 ERROR 2021-10-21 23:28:48,942 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 500 105935
 INFO 2021-10-21 23:30:39,157 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:30:47,478 views 26 »ñÈ¡µÄÑéÖ¤Âë:009187
+INFO 2021-10-21 23:30:47,478 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:009187
 INFO 2021-10-21 23:30:47,479 views 37 mobile:15556616638
 INFO 2021-10-21 23:30:47,479 views 38 sms_code:009187
 ERROR 2021-10-21 23:30:47,645 log 224 Internal Server Error: /sms_codes/15556616638/
@@ -625,7 +625,7 @@ Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 506, in dispatch
     response = handler(request, *args, **kwargs)
   File "C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 39, in get
-    res = send_sms_code.apply_async(mobile, sms_code) # ´¥·¢Òì²½ÈÎÎñ
+    res = send_sms_code.apply_async(mobile, sms_code) # ï¿½ï¿½ï¿½ï¿½ï¿½ì²½ï¿½ï¿½ï¿½ï¿½
   File "F:\python3.9.0\lib\site-packages\celery\app\task.py", line 537, in apply_async
     check_arguments(*(args or ()), **(kwargs or {}))
 TypeError: send_sms_code() argument after ** must be a mapping, not str
@@ -633,36 +633,36 @@ ERROR 2021-10-21 23:30:47,647 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1
 INFO 2021-10-21 23:34:08,601 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:34:09,555 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 23:34:40,016 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:34:49,196 views 26 »ñÈ¡µÄÑéÖ¤Âë:005892
+INFO 2021-10-21 23:34:49,196 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:005892
 INFO 2021-10-21 23:34:49,197 views 37 mobile:15556616638
 INFO 2021-10-21 23:34:49,197 views 38 sms_code:005892
-INFO 2021-10-21 23:34:49,261 views 40 ·¢ËÍ¶ÌÐÅ½á¹û:958ff776-9396-4f40-bbe8-76b484590000
+INFO 2021-10-21 23:34:49,261 views 40 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:958ff776-9396-4f40-bbe8-76b484590000
 INFO 2021-10-21 23:34:49,263 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 23:36:47,813 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:36:48,898 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 23:47:39,761 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:47:40,761 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-21 23:49:30,307 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:49:38,988 views 26 »ñÈ¡µÄÑéÖ¤Âë:050650
+INFO 2021-10-21 23:49:38,988 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:050650
 INFO 2021-10-21 23:49:38,990 views 37 mobile:15556616638
 INFO 2021-10-21 23:49:38,990 views 38 sms_code:050650
 INFO 2021-10-21 23:49:39,116 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 23:51:03,946 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:51:04,924 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:51:38,484 views 26 »ñÈ¡µÄÑéÖ¤Âë:978175
+INFO 2021-10-21 23:51:38,484 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:978175
 INFO 2021-10-21 23:51:38,485 views 37 mobile:15556616638
 INFO 2021-10-21 23:51:38,486 views 38 sms_code:978175
 INFO 2021-10-21 23:51:38,618 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 23:53:54,166 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:53:55,180 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:54:03,500 views 26 »ñÈ¡µÄÑéÖ¤Âë:032897
+INFO 2021-10-21 23:54:03,500 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:032897
 INFO 2021-10-21 23:54:03,501 views 37 mobile:15556616638
 INFO 2021-10-21 23:54:03,501 views 38 sms_code:032897
 INFO 2021-10-21 23:54:03,501 views 39 constants.SMS_CODE_REDIS_EXPIRES // 60:constants.SMS_CODE_REDIS_EXPIRES // 60
 INFO 2021-10-21 23:54:03,627 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 23:54:59,444 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:55:00,378 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:55:07,520 views 26 »ñÈ¡µÄÑéÖ¤Âë:648973
+INFO 2021-10-21 23:55:07,520 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:648973
 INFO 2021-10-21 23:55:07,521 views 37 mobile:15556616638
 INFO 2021-10-21 23:55:07,521 views 38 sms_code:648973
 ERROR 2021-10-21 23:55:07,585 log 224 Internal Server Error: /sms_codes/15556616638/
@@ -684,24 +684,24 @@ Traceback (most recent call last):
   File "F:\python3.9.0\lib\site-packages\rest_framework\views.py", line 506, in dispatch
     response = handler(request, *args, **kwargs)
   File "C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 39, in get
-    logger.info("¶ÌÐÅÓÐÐ§Ê±¼ä:" + constants.SMS_CODE_REDIS_EXPIRES // 60)
+    logger.info("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:" + constants.SMS_CODE_REDIS_EXPIRES // 60)
 TypeError: can only concatenate str (not "int") to str
 ERROR 2021-10-21 23:55:07,587 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 500 94874
 INFO 2021-10-21 23:55:47,090 autoreload 636 Watching for file changes with StatReloader
 WARNING 2021-10-21 23:55:54,568 log 224 Bad Request: /sms_codes/15556616638/
 WARNING 2021-10-21 23:55:54,568 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 400 57
-INFO 2021-10-21 23:56:03,661 views 26 »ñÈ¡µÄÑéÖ¤Âë:759168
+INFO 2021-10-21 23:56:03,661 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:759168
 INFO 2021-10-21 23:56:03,661 views 37 mobile:15805600944
 INFO 2021-10-21 23:56:03,661 views 38 sms_code:759168
-INFO 2021-10-21 23:56:03,662 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
+INFO 2021-10-21 23:56:03,662 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
 INFO 2021-10-21 23:56:03,790 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 16
 INFO 2021-10-21 23:56:39,680 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:56:40,579 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-21 23:56:48,873 views 26 »ñÈ¡µÄÑéÖ¤Âë:065938
+INFO 2021-10-21 23:56:48,873 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:065938
 INFO 2021-10-21 23:56:48,874 views 37 mobile:15556616638
 INFO 2021-10-21 23:56:48,875 views 38 sms_code:065938
-INFO 2021-10-21 23:56:48,875 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
-INFO 2021-10-21 23:56:48,976 views 42 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-21 23:56:48,875 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
+INFO 2021-10-21 23:56:48,976 views 42 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-21 23:56:48,980 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-21 23:59:13,163 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-21 23:59:14,144 autoreload 636 Watching for file changes with StatReloader
@@ -709,27 +709,27 @@ INFO 2021-10-22 00:00:35,305 autoreload 636 Watching for file changes with StatR
 INFO 2021-10-22 00:02:29,742 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-22 00:02:30,654 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-22 00:02:33,333 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-22 00:02:39,471 views 26 »ñÈ¡µÄÑéÖ¤Âë:888745
+INFO 2021-10-22 00:02:39,471 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:888745
 INFO 2021-10-22 00:02:39,472 views 37 mobile:15556616638
 INFO 2021-10-22 00:02:39,472 views 38 sms_code:888745
-INFO 2021-10-22 00:02:39,473 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
-INFO 2021-10-22 00:02:39,605 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-22 00:02:39,473 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
+INFO 2021-10-22 00:02:39,605 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-22 00:02:39,608 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-22 00:03:28,354 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\celery_tasks\sms\yuntongxun\sms.py changed, reloading.
 INFO 2021-10-22 00:03:29,297 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-22 00:05:50,363 views 26 »ñÈ¡µÄÑéÖ¤Âë:811677
+INFO 2021-10-22 00:05:50,363 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:811677
 INFO 2021-10-22 00:05:50,363 views 37 mobile:15556616638
 INFO 2021-10-22 00:05:50,363 views 38 sms_code:811677
-INFO 2021-10-22 00:05:50,364 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
-INFO 2021-10-22 00:05:50,484 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-22 00:05:50,364 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
+INFO 2021-10-22 00:05:50,484 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-22 00:05:50,487 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-22 00:32:55,786 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-22 00:32:56,896 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-22 00:32:58,961 views 26 »ñÈ¡µÄÑéÖ¤Âë:384779
+INFO 2021-10-22 00:32:58,961 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:384779
 INFO 2021-10-22 00:32:58,962 views 37 mobile:15556616638
 INFO 2021-10-22 00:32:58,962 views 38 sms_code:384779
-INFO 2021-10-22 00:32:58,962 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
-INFO 2021-10-22 00:32:59,674 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-22 00:32:58,962 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
+INFO 2021-10-22 00:32:59,674 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-22 00:32:59,676 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-22 00:33:41,209 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-22 00:33:42,217 autoreload 636 Watching for file changes with StatReloader
@@ -739,20 +739,20 @@ INFO 2021-10-22 00:38:39,980 autoreload 250 C:\Users\Administrator\Desktop\meidu
 INFO 2021-10-22 00:38:40,865 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-22 00:42:50,518 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-22 00:42:51,522 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-22 00:42:56,044 views 26 »ñÈ¡µÄÑéÖ¤Âë:730680
+INFO 2021-10-22 00:42:56,044 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:730680
 INFO 2021-10-22 00:42:56,045 views 37 mobile:15556616638
 INFO 2021-10-22 00:42:56,045 views 38 sms_code:730680
-INFO 2021-10-22 00:42:56,046 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
-INFO 2021-10-22 00:42:56,187 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-22 00:42:56,046 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
+INFO 2021-10-22 00:42:56,187 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-22 00:42:56,188 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-22 00:48:05,169 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-22 00:48:06,433 autoreload 636 Watching for file changes with StatReloader
 INFO 2021-10-22 00:49:01,762 autoreload 636 Watching for file changes with StatReloader
-INFO 2021-10-22 00:49:08,309 views 25 »ñÈ¡µÄÑéÖ¤Âë:956010
+INFO 2021-10-22 00:49:08,309 views 25 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:956010
 INFO 2021-10-22 00:49:08,310 views 36 mobile:15556616638
 INFO 2021-10-22 00:49:08,311 views 37 sms_code:956010
-INFO 2021-10-22 00:49:08,311 views 38 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
-INFO 2021-10-22 00:49:08,467 views 42 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-22 00:49:08,311 views 38 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
+INFO 2021-10-22 00:49:08,467 views 42 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-22 00:49:08,471 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-23 12:04:30,616 autoreload 250 C:\Users\Administrator\Desktop\meiduo\meiduo_mall\meiduo_mall\apps\verifications\views.py changed, reloading.
 INFO 2021-10-23 12:04:38,644 autoreload 636 Watching for file changes with StatReloader
@@ -1021,11 +1021,11 @@ WARNING 2021-10-24 12:40:20,181 basehttp 161 "GET /mobiles/15556616638/count/ HT
 INFO 2021-10-24 12:40:35,987 autoreload 636 Watching for file changes with StatReloader
 WARNING 2021-10-24 12:40:44,826 log 224 Not Found: /mobiles/15556616638/count/
 WARNING 2021-10-24 12:40:44,827 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 404 2512
-INFO 2021-10-24 12:40:44,959 views 26 »ñÈ¡µÄÑéÖ¤Âë:445880
+INFO 2021-10-24 12:40:44,959 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:445880
 INFO 2021-10-24 12:40:44,989 views 37 mobile:15556616638
 INFO 2021-10-24 12:40:44,990 views 38 sms_code:445880
-INFO 2021-10-24 12:40:44,991 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
-INFO 2021-10-24 12:40:45,697 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-24 12:40:44,991 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
+INFO 2021-10-24 12:40:45,697 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-24 12:40:45,698 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 WARNING 2021-10-24 12:41:05,092 log 224 Not Found: /usernames/sunwu/count/
 WARNING 2021-10-24 12:41:05,094 log 224 Not Found: /mobiles/15556616638/count/
@@ -1041,13 +1041,13 @@ WARNING 2021-10-24 12:41:49,481 log 224 Not Found: /mobiles/15556616638/count/
 WARNING 2021-10-24 12:41:49,482 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 404 2512
 WARNING 2021-10-24 12:41:53,088 log 224 Not Found: /mobiles/15556616638/count/
 WARNING 2021-10-24 12:41:53,089 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 404 2512
-INFO 2021-10-24 12:41:53,200 views 26 »ñÈ¡µÄÑéÖ¤Âë:997485
+INFO 2021-10-24 12:41:53,200 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:997485
 INFO 2021-10-24 12:41:53,201 views 37 mobile:15556616638
 INFO 2021-10-24 12:41:53,201 views 38 sms_code:997485
-INFO 2021-10-24 12:41:53,201 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
+INFO 2021-10-24 12:41:53,201 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
 WARNING 2021-10-24 12:41:53,219 log 224 Not Found: /mobiles/15556616638/count/
 WARNING 2021-10-24 12:41:53,220 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 404 2512
-INFO 2021-10-24 12:41:53,320 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-24 12:41:53,320 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-24 12:41:53,322 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 WARNING 2021-10-24 12:42:08,181 log 224 Not Found: /mobiles/15556616639/count/
 WARNING 2021-10-24 12:42:08,183 basehttp 161 "GET /mobiles/15556616639/count/ HTTP/1.1" 404 2512
@@ -1198,16 +1198,16 @@ INFO 2021-10-24 15:11:04,808 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1
 INFO 2021-10-24 15:11:57,851 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 15:11:57,857 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 15:13:32,035 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 15:13:32,884 views 26 »ñÈ¡µÄÑéÖ¤Âë:849780
+INFO 2021-10-24 15:13:32,884 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:849780
 INFO 2021-10-24 15:13:32,953 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 15:13:32,954 views 37 mobile:15556616630
 INFO 2021-10-24 15:13:32,954 views 38 sms_code:849780
-INFO 2021-10-24 15:13:32,954 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
+INFO 2021-10-24 15:13:32,954 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
 INFO 2021-10-24 15:13:35,126 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 15:13:35,131 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 15:13:35,149 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 15:13:35,149 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 15:13:35,356 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-24 15:13:35,356 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-24 15:13:35,372 basehttp 161 "GET /sms_codes/15556616630/ HTTP/1.1" 200 16
 INFO 2021-10-24 15:13:40,470 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 15:13:40,471 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
@@ -1258,12 +1258,12 @@ INFO 2021-10-24 15:40:51,986 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1
 INFO 2021-10-24 15:40:57,744 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 15:41:00,513 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 15:41:00,517 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 15:41:08,618 views 26 »ñÈ¡µÄÑéÖ¤Âë:393565
+INFO 2021-10-24 15:41:08,618 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:393565
 INFO 2021-10-24 15:41:08,619 views 37 mobile:15556616630
 INFO 2021-10-24 15:41:08,619 views 38 sms_code:393565
-INFO 2021-10-24 15:41:08,620 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
+INFO 2021-10-24 15:41:08,620 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
 INFO 2021-10-24 15:41:08,624 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 15:41:08,832 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-24 15:41:08,832 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-24 15:41:08,832 basehttp 161 "GET /sms_codes/15556616630/ HTTP/1.1" 200 16
 INFO 2021-10-24 15:41:28,952 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 15:41:28,953 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
@@ -1273,12 +1273,12 @@ INFO 2021-10-24 15:41:47,725 basehttp 161 "GET /usernames/sunwu2/count/ HTTP/1.1
 INFO 2021-10-24 15:41:50,862 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 15:41:56,207 basehttp 161 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 15:42:01,009 basehttp 161 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 15:42:34,406 views 26 »ñÈ¡µÄÑéÖ¤Âë:381697
+INFO 2021-10-24 15:42:34,406 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:381697
 INFO 2021-10-24 15:42:34,407 views 37 mobile:15556616632
 INFO 2021-10-24 15:42:34,408 views 38 sms_code:381697
-INFO 2021-10-24 15:42:34,408 views 39 ¶ÌÐÅÓÐÐ§Ê±¼ä:5
+INFO 2021-10-24 15:42:34,408 views 39 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§Ê±ï¿½ï¿½:5
 INFO 2021-10-24 15:42:34,412 basehttp 161 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 15:42:34,518 views 43 ·¢ËÍ¶ÌÐÅ½á¹û:-1
+INFO 2021-10-24 15:42:34,518 views 43 ï¿½ï¿½ï¿½Í¶ï¿½ï¿½Å½ï¿½ï¿½:-1
 INFO 2021-10-24 15:42:34,520 basehttp 161 "GET /sms_codes/15556616632/ HTTP/1.1" 200 16
 INFO 2021-10-24 15:42:37,184 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 15:42:37,187 basehttp 161 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
@@ -1353,7 +1353,7 @@ INFO 2021-10-24 18:25:12,936 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1
 INFO 2021-10-24 18:25:12,936 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 18:25:15,805 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 18:25:15,805 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
-INFO 2021-10-24 18:25:17,598 views 26 »ñÈ¡µÄÑéÖ¤Âë:496909
+INFO 2021-10-24 18:25:17,598 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:496909
 INFO 2021-10-24 18:25:17,603 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 18:25:18,142 basehttp 161 "GET /sms_codes/15556616633/ HTTP/1.1" 200 16
 INFO 2021-10-24 18:25:21,205 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
@@ -1417,7 +1417,7 @@ INFO 2021-10-24 18:54:54,920 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/
 INFO 2021-10-24 18:54:54,920 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 18:54:55,070 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 18:54:55,071 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
-INFO 2021-10-24 18:55:02,961 views 26 »ñÈ¡µÄÑéÖ¤Âë:895239
+INFO 2021-10-24 18:55:02,961 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:895239
 INFO 2021-10-24 18:55:02,966 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 18:55:03,175 basehttp 161 "GET /sms_codes/15556616633/ HTTP/1.1" 200 16
 INFO 2021-10-24 18:55:05,305 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
@@ -1523,7 +1523,7 @@ INFO 2021-10-24 19:05:24,075 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/
 INFO 2021-10-24 19:05:24,076 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 19:05:24,223 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 19:05:24,224 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 19:05:29,558 views 26 »ñÈ¡µÄÑéÖ¤Âë:157193
+INFO 2021-10-24 19:05:29,558 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:157193
 INFO 2021-10-24 19:05:29,581 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 19:05:29,749 basehttp 161 "GET /sms_codes/15556616633/ HTTP/1.1" 200 16
 INFO 2021-10-24 19:05:31,723 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
@@ -1570,7 +1570,7 @@ INFO 2021-10-24 19:21:25,749 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1
 INFO 2021-10-24 19:21:36,557 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 19:21:42,678 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 19:21:42,682 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 19:21:48,373 views 26 »ñÈ¡µÄÑéÖ¤Âë:180616
+INFO 2021-10-24 19:21:48,373 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:180616
 INFO 2021-10-24 19:21:48,399 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 19:21:49,486 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 19:21:49,498 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
@@ -1600,7 +1600,7 @@ INFO 2021-10-24 19:27:36,539 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/
 INFO 2021-10-24 19:27:36,540 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 19:27:36,709 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-24 19:27:36,710 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
-INFO 2021-10-24 19:27:37,240 views 26 »ñÈ¡µÄÑéÖ¤Âë:124719
+INFO 2021-10-24 19:27:37,240 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:124719
 INFO 2021-10-24 19:27:37,245 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 19:27:37,424 basehttp 161 "GET /sms_codes/15556616633/ HTTP/1.1" 200 16
 INFO 2021-10-24 19:27:37,951 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
@@ -1628,7 +1628,7 @@ INFO 2021-10-24 19:50:02,245 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/
 INFO 2021-10-24 19:50:07,928 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 WARNING 2021-10-24 19:50:07,934 log 224 Bad Request: /users/
 WARNING 2021-10-24 19:50:07,935 basehttp 161 "POST /users/ HTTP/1.1" 400 45
-INFO 2021-10-24 19:50:18,841 views 26 »ñÈ¡µÄÑéÖ¤Âë:586432
+INFO 2021-10-24 19:50:18,841 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:586432
 INFO 2021-10-24 19:50:18,869 basehttp 161 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-24 19:50:18,977 basehttp 161 "GET /sms_codes/15556616633/ HTTP/1.1" 200 16
 INFO 2021-10-24 19:50:22,543 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
@@ -1669,7 +1669,7 @@ INFO 2021-10-25 22:25:42,968 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1
 INFO 2021-10-25 22:25:47,893 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
 INFO 2021-10-25 22:25:52,259 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-25 22:26:06,918 basehttp 161 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
-INFO 2021-10-25 22:26:07,018 views 26 »ñÈ¡µÄÑéÖ¤Âë:142809
+INFO 2021-10-25 22:26:07,018 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:142809
 INFO 2021-10-25 22:26:07,021 basehttp 161 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
 INFO 2021-10-25 22:26:08,613 basehttp 161 "GET /sms_codes/15556616634/ HTTP/1.1" 200 16
 INFO 2021-10-25 22:26:17,934 basehttp 161 "OPTIONS /users/ HTTP/1.1" 200 0
@@ -1679,7 +1679,7 @@ INFO 2021-10-25 22:26:18,308 basehttp 161 "POST /users/ HTTP/1.1" 201 327
 INFO 2021-10-25 22:27:11,601 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
 INFO 2021-10-25 22:27:13,945 basehttp 161 "GET /usernames/sunwu5/count/ HTTP/1.1" 200 31
 INFO 2021-10-25 22:27:20,400 basehttp 161 "GET /mobiles/15556616635/count/ HTTP/1.1" 200 36
-INFO 2021-10-25 22:27:20,509 views 26 »ñÈ¡µÄÑéÖ¤Âë:171842
+INFO 2021-10-25 22:27:20,509 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:171842
 INFO 2021-10-25 22:27:20,514 basehttp 161 "GET /mobiles/15556616635/count/ HTTP/1.1" 200 36
 INFO 2021-10-25 22:27:21,258 basehttp 161 "GET /sms_codes/15556616635/ HTTP/1.1" 200 16
 INFO 2021-10-25 22:27:31,429 basehttp 161 "GET /usernames/sunwu5/count/ HTTP/1.1" 200 31
@@ -1689,7 +1689,7 @@ INFO 2021-10-25 22:30:10,076 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1
 INFO 2021-10-25 22:30:17,351 basehttp 161 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
 INFO 2021-10-25 22:30:39,275 basehttp 161 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
 INFO 2021-10-25 22:30:52,327 basehttp 161 "GET /mobiles/15556616636/count/ HTTP/1.1" 200 36
-INFO 2021-10-25 22:30:53,562 views 26 »ñÈ¡µÄÑéÖ¤Âë:672877
+INFO 2021-10-25 22:30:53,562 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:672877
 INFO 2021-10-25 22:30:53,580 basehttp 161 "GET /mobiles/15556616636/count/ HTTP/1.1" 200 36
 INFO 2021-10-25 22:30:54,719 basehttp 161 "GET /sms_codes/15556616636/ HTTP/1.1" 200 16
 INFO 2021-10-25 22:31:01,037 basehttp 161 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
@@ -1698,7 +1698,7 @@ INFO 2021-10-25 22:31:01,272 basehttp 161 "POST /users/ HTTP/1.1" 201 327
 INFO 2021-10-25 22:33:14,545 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
 INFO 2021-10-25 22:33:18,030 basehttp 161 "GET /usernames/sunwu7/count/ HTTP/1.1" 200 31
 INFO 2021-10-25 22:33:26,364 basehttp 161 "GET /mobiles/15556616637/count/ HTTP/1.1" 200 36
-INFO 2021-10-25 22:33:26,475 views 26 »ñÈ¡µÄÑéÖ¤Âë:941458
+INFO 2021-10-25 22:33:26,475 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:941458
 INFO 2021-10-25 22:33:26,499 basehttp 161 "GET /mobiles/15556616637/count/ HTTP/1.1" 200 36
 INFO 2021-10-25 22:33:28,451 basehttp 161 "GET /sms_codes/15556616637/ HTTP/1.1" 200 16
 INFO 2021-10-25 22:33:39,233 basehttp 161 "GET /mobiles/15556616637/count/ HTTP/1.1" 200 36
@@ -1708,7 +1708,7 @@ INFO 2021-10-26 20:23:59,458 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1
 INFO 2021-10-26 20:24:04,804 basehttp 161 "GET /usernames/sunwu8/count/ HTTP/1.1" 200 31
 INFO 2021-10-26 20:24:13,816 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
 INFO 2021-10-26 20:24:13,928 basehttp 161 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
-INFO 2021-10-26 20:24:13,939 views 26 »ñÈ¡µÄÑéÖ¤Âë:208947
+INFO 2021-10-26 20:24:13,939 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:208947
 INFO 2021-10-26 20:24:14,117 basehttp 161 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-26 20:24:25,404 basehttp 161 "OPTIONS /users/ HTTP/1.1" 200 0
 INFO 2021-10-26 20:24:25,414 basehttp 161 "GET /usernames/sunwu8/count/ HTTP/1.1" 200 31
@@ -1718,7 +1718,7 @@ WARNING 2021-10-26 20:24:25,575 basehttp 161 "POST /users/ HTTP/1.1" 400 57
 INFO 2021-10-26 20:24:44,171 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
 INFO 2021-10-26 20:24:47,681 basehttp 161 "GET /usernames/sunwu8/count/ HTTP/1.1" 200 31
 INFO 2021-10-26 20:24:56,105 basehttp 161 "GET /mobiles/15805600940/count/ HTTP/1.1" 200 36
-INFO 2021-10-26 20:24:56,219 views 26 »ñÈ¡µÄÑéÖ¤Âë:180656
+INFO 2021-10-26 20:24:56,219 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:180656
 INFO 2021-10-26 20:24:56,224 basehttp 161 "GET /mobiles/15805600940/count/ HTTP/1.1" 200 36
 INFO 2021-10-26 20:24:56,345 basehttp 161 "GET /sms_codes/15805600940/ HTTP/1.1" 200 16
 INFO 2021-10-26 20:25:05,546 basehttp 161 "GET /usernames/sunwu8/count/ HTTP/1.1" 200 31
@@ -1728,7 +1728,7 @@ INFO 2021-10-26 20:27:03,805 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1
 INFO 2021-10-26 20:27:19,198 basehttp 161 "GET /usernames/sw111/count/ HTTP/1.1" 200 30
 INFO 2021-10-26 20:27:28,646 basehttp 161 "GET /mobiles/15805600941/count/ HTTP/1.1" 200 36
 INFO 2021-10-26 20:27:32,311 basehttp 161 "GET /mobiles/15805600941/count/ HTTP/1.1" 200 36
-INFO 2021-10-26 20:27:32,406 views 26 »ñÈ¡µÄÑéÖ¤Âë:521348
+INFO 2021-10-26 20:27:32,406 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:521348
 INFO 2021-10-26 20:27:32,426 basehttp 161 "GET /mobiles/15805600941/count/ HTTP/1.1" 200 36
 INFO 2021-10-26 20:27:32,515 basehttp 161 "GET /sms_codes/15805600941/ HTTP/1.1" 200 16
 INFO 2021-10-26 20:27:41,101 basehttp 161 "GET /usernames/sw111/count/ HTTP/1.1" 200 30
@@ -1737,7 +1737,7 @@ INFO 2021-10-26 20:27:41,327 basehttp 161 "POST /users/ HTTP/1.1" 201 324
 INFO 2021-10-26 20:28:15,492 basehttp 161 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
 INFO 2021-10-26 20:28:21,557 basehttp 161 "GET /usernames/sw112/count/ HTTP/1.1" 200 30
 INFO 2021-10-26 20:28:26,524 basehttp 161 "GET /mobiles/15805600942/count/ HTTP/1.1" 200 36
-INFO 2021-10-26 20:28:26,639 views 26 »ñÈ¡µÄÑéÖ¤Âë:355587
+INFO 2021-10-26 20:28:26,639 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:355587
 INFO 2021-10-26 20:28:26,647 basehttp 161 "GET /mobiles/15805600942/count/ HTTP/1.1" 200 36
 INFO 2021-10-26 20:28:26,833 basehttp 161 "GET /sms_codes/15805600942/ HTTP/1.1" 200 16
 INFO 2021-10-26 20:28:38,482 basehttp 161 "GET /mobiles/15805600942/count/ HTTP/1.1" 200 36
@@ -1798,7 +1798,7 @@ WARNING 2021-10-27 17:02:48,281 basehttp 154 "POST /authorizations/ HTTP/1.1" 40
 INFO 2021-10-27 17:02:55,586 basehttp 154 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
 INFO 2021-10-27 17:03:14,956 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
 INFO 2021-10-27 17:03:15,016 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
-INFO 2021-10-27 17:03:15,253 views 26 »ñÈ¡µÄÑéÖ¤Âë:349208
+INFO 2021-10-27 17:03:15,253 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:349208
 INFO 2021-10-27 17:03:15,425 basehttp 154 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
 INFO 2021-10-27 17:03:25,765 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
 INFO 2021-10-27 17:03:25,777 basehttp 154 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
@@ -1809,7 +1809,7 @@ INFO 2021-10-27 17:12:23,151 autoreload 578 Watching for file changes with StatR
 INFO 2021-10-27 17:24:15,943 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
 INFO 2021-10-28 15:25:17,466 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
 INFO 2021-10-28 15:25:33,020 basehttp 154 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
-INFO 2021-10-28 15:25:33,770 views 26 »ñÈ¡µÄÑéÖ¤Âë:783388
+INFO 2021-10-28 15:25:33,770 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:783388
 INFO 2021-10-28 15:25:33,813 basehttp 154 "GET /mobiles/15556616630/count/ HTTP/1.1" 200 36
 INFO 2021-10-28 15:25:33,913 basehttp 154 "GET /sms_codes/15556616630/ HTTP/1.1" 200 16
 INFO 2021-10-28 15:27:30,331 autoreload 578 Watching for file changes with StatReloader
@@ -1817,7 +1817,7 @@ INFO 2021-10-28 15:27:53,069 autoreload 578 Watching for file changes with StatR
 INFO 2021-10-28 15:28:00,558 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
 INFO 2021-10-28 15:28:01,079 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
 INFO 2021-10-28 15:28:12,122 basehttp 154 "GET /mobiles/15556616631/count/ HTTP/1.1" 200 36
-INFO 2021-10-28 15:28:12,163 views 26 »ñÈ¡µÄÑéÖ¤Âë:055369
+INFO 2021-10-28 15:28:12,163 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:055369
 INFO 2021-10-28 15:28:12,199 basehttp 154 "GET /mobiles/15556616631/count/ HTTP/1.1" 200 36
 INFO 2021-10-28 15:28:12,302 basehttp 154 "GET /sms_codes/15556616631/ HTTP/1.1" 200 16
 INFO 2021-10-28 15:28:36,762 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
@@ -1829,7 +1829,7 @@ INFO 2021-10-28 15:37:43,971 autoreload 578 Watching for file changes with StatR
 INFO 2021-10-28 15:38:04,346 autoreload 578 Watching for file changes with StatReloader
 INFO 2021-10-28 16:21:20,763 basehttp 154 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
 INFO 2021-10-28 16:21:28,277 basehttp 154 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
-INFO 2021-10-28 16:21:28,349 views 26 »ñÈ¡µÄÑéÖ¤Âë:026097
+INFO 2021-10-28 16:21:28,349 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:026097
 INFO 2021-10-28 16:21:28,394 basehttp 154 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
 INFO 2021-10-28 16:21:28,493 basehttp 154 "GET /sms_codes/15556616632/ HTTP/1.1" 200 16
 INFO 2021-10-28 16:21:37,133 basehttp 154 "GET /mobiles/15556616632/count/ HTTP/1.1" 200 36
@@ -1845,7 +1845,7 @@ INFO 2021-10-29 11:58:15,733 autoreload 203 D:\Python3.7.1\Lib\site-packages\res
 INFO 2021-10-29 11:58:21,311 autoreload 578 Watching for file changes with StatReloader
 INFO 2021-10-29 14:15:40,874 basehttp 154 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
 INFO 2021-10-29 14:15:50,189 basehttp 154 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
-INFO 2021-10-29 14:15:51,001 views 26 »ñÈ¡µÄÑéÖ¤Âë:379699
+INFO 2021-10-29 14:15:51,001 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:379699
 INFO 2021-10-29 14:15:51,039 basehttp 154 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
 INFO 2021-10-29 14:15:51,208 basehttp 154 "GET /sms_codes/15556616633/ HTTP/1.1" 200 16
 INFO 2021-10-29 14:16:02,021 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
@@ -1893,7 +1893,7 @@ INFO 2021-11-09 16:55:07,166 autoreload 578 Watching for file changes with StatR
 INFO 2021-11-09 18:28:35,093 basehttp 154 "GET /usernames/sunwu5/count/ HTTP/1.1" 200 31
 INFO 2021-11-09 18:28:48,032 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
 INFO 2021-11-09 18:28:49,690 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
-INFO 2021-11-09 18:28:49,690 views 26 »ñÈ¡µÄÑéÖ¤Âë:965983
+INFO 2021-11-09 18:28:49,690 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:965983
 INFO 2021-11-09 18:28:49,917 basehttp 154 "GET /sms_codes/15556616634/ HTTP/1.1" 200 16
 INFO 2021-11-09 18:29:04,639 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
 INFO 2021-11-09 18:29:04,647 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
@@ -1904,7 +1904,7 @@ INFO 2021-11-09 18:30:32,470 autoreload 578 Watching for file changes with StatR
 INFO 2021-11-09 18:31:09,981 basehttp 154 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
 INFO 2021-11-09 18:31:17,434 basehttp 154 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
 INFO 2021-11-09 18:31:28,235 basehttp 154 "GET /mobiles/15556616636/count/ HTTP/1.1" 200 36
-INFO 2021-11-09 18:31:28,977 views 26 »ñÈ¡µÄÑéÖ¤Âë:195000
+INFO 2021-11-09 18:31:28,977 views 26 ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½:195000
 INFO 2021-11-09 18:31:29,005 basehttp 154 "GET /mobiles/15556616636/count/ HTTP/1.1" 200 36
 INFO 2021-11-09 18:31:29,118 basehttp 154 "GET /sms_codes/15556616636/ HTTP/1.1" 200 16
 INFO 2021-11-09 18:31:36,545 basehttp 154 "GET /usernames/sunwu6/count/ HTTP/1.1" 200 31
@@ -2006,23 +2006,144 @@ INFO 2021-11-12 16:03:10,247 autoreload 578 Watching for file changes with StatR
 INFO 2021-11-12 16:03:18,354 autoreload 203 D:\Python3.7.1\Lib\site-packages\rest_framework\mixins.py changed, reloading.
 INFO 2021-11-12 16:03:20,203 autoreload 578 Watching for file changes with StatReloader
 INFO 2021-11-12 16:03:22,118 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
-INFO 2021-11-12 16:08:11,814 basehttp 154 "GET /user/ HTTP/1.1" 200 82
-INFO 2021-11-12 16:18:24,668 basehttp 154 "POST /authorizations/ HTTP/1.1" 200 204
-INFO 2021-11-12 16:19:08,879 basehttp 154 "GET /user/ HTTP/1.1" 200 82
-INFO 2021-11-12 16:20:25,617 basehttp 154 "GET /user/ HTTP/1.1" 200 82
-INFO 2021-11-15 11:39:31,459 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
-INFO 2021-11-15 11:39:33,959 autoreload 578 Watching for file changes with StatReloader
-INFO 2021-11-15 11:45:44,878 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
-INFO 2021-11-15 11:45:46,719 autoreload 578 Watching for file changes with StatReloader
-INFO 2021-11-15 11:48:12,774 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
-INFO 2021-11-15 11:48:14,658 autoreload 578 Watching for file changes with StatReloader
-INFO 2021-11-15 14:17:44,061 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
-INFO 2021-11-15 14:17:46,366 autoreload 578 Watching for file changes with StatReloader
-INFO 2021-11-15 14:22:16,407 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
-INFO 2021-11-15 14:22:18,405 autoreload 578 Watching for file changes with StatReloader
-INFO 2021-11-15 14:22:40,862 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
-INFO 2021-11-15 14:22:42,798 autoreload 578 Watching for file changes with StatReloader
-INFO 2021-11-15 14:22:55,082 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
-INFO 2021-11-15 14:22:56,894 autoreload 578 Watching for file changes with StatReloader
-INFO 2021-11-16 10:07:54,616 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
-INFO 2021-11-16 10:07:56,812 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 10:23:57,792 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 10:24:41,901 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-16 10:24:42,826 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 10:25:17,930 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 10:39:23,292 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 10:40:17,256 basehttp 154 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
+INFO 2021-11-16 10:40:28,756 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 10:40:29,220 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+ERROR 2021-11-16 10:40:30,217 exceptions 17 [<verifications.views.SMSCodeView object at 0x0000015507CC8C18>] Error 10061 connecting to 127.0.0.1:6379. ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£.
+ERROR 2021-11-16 10:40:30,223 log 228 Insufficient Storage: /sms_codes/15556616638/
+ERROR 2021-11-16 10:40:30,224 basehttp 154 "GET /sms_codes/15556616638/ HTTP/1.1" 507 35
+INFO 2021-11-16 10:40:32,420 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+ERROR 2021-11-16 10:40:33,409 exceptions 17 [<verifications.views.SMSCodeView object at 0x0000015507B04048>] Error 10061 connecting to 127.0.0.1:6379. ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£.
+ERROR 2021-11-16 10:40:33,410 log 228 Insufficient Storage: /sms_codes/15556616638/
+ERROR 2021-11-16 10:40:33,411 basehttp 154 "GET /sms_codes/15556616638/ HTTP/1.1" 507 35
+INFO 2021-11-16 10:40:36,203 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+ERROR 2021-11-16 10:40:37,191 exceptions 17 [<verifications.views.SMSCodeView object at 0x0000015507AE0588>] Error 10061 connecting to 127.0.0.1:6379. ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£.
+ERROR 2021-11-16 10:40:37,193 log 228 Insufficient Storage: /sms_codes/15556616638/
+ERROR 2021-11-16 10:40:37,194 basehttp 154 "GET /sms_codes/15556616638/ HTTP/1.1" 507 35
+INFO 2021-11-16 10:45:25,442 views 26 »ñÈ¡µÄÑéÖ¤Âë:995320
+INFO 2021-11-16 10:45:25,457 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 10:45:25,552 basehttp 154 "GET /sms_codes/15556616638/ HTTP/1.1" 200 16
+INFO 2021-11-16 10:45:32,633 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-11-16 10:45:32,642 basehttp 154 "GET /mobiles/15556616638/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 10:45:32,642 basehttp 154 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
+INFO 2021-11-16 10:45:32,844 basehttp 154 "POST /users/ HTTP/1.1" 201 314
+INFO 2021-11-16 10:45:36,769 basehttp 154 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2021-11-16 10:45:36,777 basehttp 154 "GET /user/ HTTP/1.1" 200 82
+INFO 2021-11-16 10:45:53,078 basehttp 154 "OPTIONS /email/ HTTP/1.1" 200 0
+INFO 2021-11-16 10:45:53,179 basehttp 154 "PUT /email/ HTTP/1.1" 200 36
+INFO 2021-11-16 10:47:09,723 basehttp 154 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-16 10:47:30,250 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
+INFO 2021-11-16 10:47:31,739 basehttp 154 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
+INFO 2021-11-16 10:47:35,555 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
+INFO 2021-11-16 10:47:44,584 basehttp 154 "GET /mobiles/15556616631/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 10:47:44,663 views 26 »ñÈ¡µÄÑéÖ¤Âë:802219
+INFO 2021-11-16 10:47:44,676 basehttp 154 "GET /mobiles/15556616631/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 10:47:44,816 basehttp 154 "GET /sms_codes/15556616631/ HTTP/1.1" 200 16
+INFO 2021-11-16 10:47:53,503 basehttp 154 "GET /mobiles/15556616631/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 10:47:53,512 basehttp 154 "GET /usernames/sunwu2/count/ HTTP/1.1" 200 31
+INFO 2021-11-16 10:47:53,707 basehttp 154 "POST /users/ HTTP/1.1" 201 317
+INFO 2021-11-16 10:48:00,939 basehttp 154 "GET /user/ HTTP/1.1" 200 83
+INFO 2021-11-16 10:48:18,226 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 10:49:33,935 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 10:49:37,311 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 11:04:37,827 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-16 11:04:38,818 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:06:19,374 autoreload 203 F:\meiduo_1027\meiduo_mall\celery_tasks\main.py changed, reloading.
+INFO 2021-11-16 11:06:20,262 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:07:42,848 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-16 11:07:43,707 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:08:06,652 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-16 11:08:07,527 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:10:12,843 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-16 11:10:13,773 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:14:56,189 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:14:59,833 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+ERROR 2021-11-16 11:21:22,677 basehttp 154 "GET /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNzAzMDk3NywiZXhwIjoxNjM3MTE3Mzc3fQ.eyJ1c2VyX2lkIjoyLCJlbWFpbCI6IjE1NTU2NjE2NjM4QDE2My5jb20ifQ.4rskMrWDkqJVMBjqpva7N_QyP--x72SG5wJzmvVWanfRfFVdsvngdbJfZd5r8KFVmeJmgKUKyhpmLfcxrgCoPA HTTP/1.1" 500 59
+INFO 2021-11-16 11:21:49,973 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:22:09,107 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:22:18,112 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+ERROR 2021-11-16 11:22:35,685 basehttp 154 "GET /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNzAzMjkzOCwiZXhwIjoxNjM3MTE5MzM4fQ.eyJ1c2VyX2lkIjoyLCJlbWFpbCI6IjE1NTU2NjE2NjM4QDE2My5jb20ifQ.C1S8Nmv7BP8qlM_4HGghIKHA1yp51dYfNULOswwscnKVlCBmCo_Z3dFAOf4l6Cz4iAOvK4oN89l71uxJEEOwOw HTTP/1.1" 500 59
+ERROR 2021-11-16 11:23:06,113 basehttp 154 "GET /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNzAzMjkzOCwiZXhwIjoxNjM3MTE5MzM4fQ.eyJ1c2VyX2lkIjoyLCJlbWFpbCI6IjE1NTU2NjE2NjM4QDE2My5jb20ifQ.C1S8Nmv7BP8qlM_4HGghIKHA1yp51dYfNULOswwscnKVlCBmCo_Z3dFAOf4l6Cz4iAOvK4oN89l71uxJEEOwOw HTTP/1.1" 500 59
+INFO 2021-11-16 11:29:41,867 autoreload 203 D:\Python3.7.1\Lib\site-packages\django\views\debug.py changed, reloading.
+INFO 2021-11-16 11:29:42,759 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:30:29,422 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-16 11:30:30,390 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:31:11,345 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-16 11:31:12,248 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:31:30,306 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-16 11:31:31,162 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:31:40,205 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-16 11:31:41,084 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:32:17,767 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:32:20,300 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 11:32:36,031 basehttp 154 "GET /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNzAzMzU0MCwiZXhwIjoxNjM3MTE5OTQwfQ.eyJ1c2VyX2lkIjoyLCJlbWFpbCI6IjE1NTU2NjE2NjM4QDE2My5jb20ifQ.gFmucLxMM39gYAOxp5ojSP9iUTc9UPXZcVfNsTiNln1U9VIVEWiAxI_vntwkpKAqdZ7_8bMEou6wwmJ47RlTjg HTTP/1.1" 200 16
+INFO 2021-11-16 11:32:52,143 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:33:03,175 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:33:08,429 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 11:33:25,918 basehttp 154 "GET /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNzAzMzU4OCwiZXhwIjoxNjM3MTE5OTg4fQ.eyJ1c2VyX2lkIjoyLCJlbWFpbCI6IjE1NTU2NjE2NjM4QDE2My5jb20ifQ.B8ZFp9ecxsliNjX6-uQ5wTNqqAabzoRDc5DNIdmYAhoBRXUBScOTlO79wIwgEBShpD36BwLn9EhGsok08jt5cw HTTP/1.1" 200 16
+INFO 2021-11-16 11:33:37,692 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:33:38,354 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:33:38,525 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:33:38,685 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:33:38,848 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 11:36:09,299 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2021-11-16 11:36:10,364 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:36:33,626 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 11:36:43,645 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 11:38:57,814 basehttp 154 "GET /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNzAzMzgwMywiZXhwIjoxNjM3MTIwMjAzfQ.eyJ1c2VyX2lkIjoyLCJlbWFpbCI6IjE1NTU2NjE2NjM4QDE2My5jb20ifQ.Z_DBmoWbqcz3IzH8daGe5SxHx_STwJ_KeNWFRu5QQ0YLi759Sqf9u5P6Bl78VajlYxa03D6JViA_NtvH7nc4kA HTTP/1.1" 200 16
+INFO 2021-11-16 11:39:03,100 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 11:40:10,435 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 11:40:36,222 basehttp 154 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
+INFO 2021-11-16 11:40:45,202 basehttp 154 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 11:40:45,284 views 26 »ñÈ¡µÄÑéÖ¤Âë:486077
+INFO 2021-11-16 11:40:45,299 basehttp 154 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 11:40:45,418 basehttp 154 "GET /sms_codes/15556616633/ HTTP/1.1" 200 16
+INFO 2021-11-16 11:40:58,543 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-11-16 11:40:58,551 basehttp 154 "GET /mobiles/15556616633/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 11:40:58,551 basehttp 154 "GET /usernames/sunwu3/count/ HTTP/1.1" 200 31
+INFO 2021-11-16 11:40:58,755 basehttp 154 "POST /users/ HTTP/1.1" 201 317
+INFO 2021-11-16 11:41:03,304 basehttp 154 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2021-11-16 11:41:03,314 basehttp 154 "GET /user/ HTTP/1.1" 200 83
+INFO 2021-11-16 11:41:12,563 basehttp 154 "OPTIONS /email/ HTTP/1.1" 200 0
+INFO 2021-11-16 11:41:12,574 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 11:41:22,873 basehttp 154 "GET /emails/verification/?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNzAzNDA3MiwiZXhwIjoxNjM3MTIwNDcyfQ.eyJ1c2VyX2lkIjozLCJlbWFpbCI6IjE1NTU2NjE2NjM4QDE2My5jb20ifQ.adnCquXb08NwftjAlPLHbMLSu7tFj3GWb83A7ntnh0okAKX0hqaVnr-5NHN_zFcaWNbpRqeU46XI-xPCj5L5BQ HTTP/1.1" 200 16
+INFO 2021-11-16 11:41:26,465 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 14:03:18,529 basehttp 154 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2021-11-16 14:03:18,540 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 14:03:23,667 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 14:03:31,971 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 14:03:32,455 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 14:03:32,628 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 14:03:33,700 basehttp 154 "GET /user/ HTTP/1.1" 200 101
+INFO 2021-11-16 14:03:43,844 basehttp 154 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
+INFO 2021-11-16 14:03:49,125 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 14:03:49,172 views 26 »ñÈ¡µÄÑéÖ¤Âë:233602
+INFO 2021-11-16 14:03:49,187 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 14:03:49,317 basehttp 154 "GET /sms_codes/15556616634/ HTTP/1.1" 200 16
+INFO 2021-11-16 14:04:04,763 basehttp 154 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-11-16 14:04:04,766 basehttp 154 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
+INFO 2021-11-16 14:04:04,768 basehttp 154 "GET /mobiles/15556616634/count/ HTTP/1.1" 200 36
+INFO 2021-11-16 14:04:04,968 basehttp 154 "POST /users/ HTTP/1.1" 201 317
+INFO 2021-11-16 14:04:10,025 basehttp 154 "GET /user/ HTTP/1.1" 200 83
+INFO 2021-11-16 14:04:27,341 basehttp 154 "OPTIONS /email/ HTTP/1.1" 200 0
+INFO 2021-11-16 14:04:27,363 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 14:07:46,833 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 14:07:47,592 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 14:11:41,624 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2021-11-16 14:11:42,519 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 14:13:29,428 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-16 14:13:30,346 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 14:40:15,053 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 14:40:17,374 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 14:56:43,068 autoreload 203 F:\meiduo_1027\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-16 14:56:44,219 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 14:56:46,064 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 14:56:48,640 basehttp 154 "PUT /email/ HTTP/1.1" 200 38
+INFO 2021-11-16 14:57:25,471 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-16 14:57:37,940 basehttp 154 "GET /user/ HTTP/1.1" 200 102
+INFO 2021-11-16 14:57:40,436 basehttp 154 "PUT /email/ HTTP/1.1" 200 38

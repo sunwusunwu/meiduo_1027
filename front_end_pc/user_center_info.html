@@ -74,10 +74,9 @@
                             <div v-if="email_error">邮箱格式错误</div>
                         </div>
                         <div v-else-if="email">
-                            {{ email }}
-                            <div v-if="email_active">已验证</div>
+                            {{ email }} <div v-if="email_active">已验证</div>
                             <div v-else>
-                                待验证<input @click="save_email" :disabled="send_email_btn_disabled" type="button"
+                                待验证：<input @click="save_email" :disabled="send_email_btn_disabled" type="button"
                                           :value="send_email_tip">
                             </div>
                         </div>
