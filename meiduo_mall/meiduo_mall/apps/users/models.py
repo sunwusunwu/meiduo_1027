@@ -1,7 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
 from django.conf import settings
-from itsdangerous import TimedJSONWebSignatureSerializer as TJWSSerializer,BadData
+from itsdangerous import TimedJSONWebSignatureSerializer as TJWSSerializer, BadData
 
 from meiduo_mall.utils.models import BaseModel
 
@@ -22,10 +22,11 @@ class User(AbstractUser):
         # 创建加密的序列化器
         serializer = TJWSSerializer(settings.SECRET_KEY, 3600 * 24)
         # 调用dumps方法加密
-        data ={'user_id': self.id, 'email': self.email}
+        data = {'user_id': self.id, 'email': self.email}
         token = serializer.dumps(data).decode()
         # 拼接url
-        return 'http://www.meiduo.site:8080/success_verify_email.html?token=' + token
+        verify_url = 'http://www.meiduo.site:8080/success_verify_email.html?token=' + token
+        return verify_url
 
     @staticmethod
     def check_verify_email_token(token):
@@ -34,14 +35,14 @@ class User(AbstractUser):
         serializer = TJWSSerializer(settings.SECRET_KEY, 3600 * 24)
         # loads解密和查询user
         try:
-            data =serializer.loads(token)
+            data = serializer.loads(token)
         except BadData:
             return None
         else:
-            id = data.get('user_id')
+            user_id = data.get('user_id')
             email = data.get('email')
             try:
-                user = User.objects.get(id=id, email=email)
+                user = User.objects.get(id=user_id, email=email)
             except User.DoesNotExist:
                 return None
             else:

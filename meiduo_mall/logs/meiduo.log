@@ -2654,3 +2654,5 @@ WARNING 2021-11-18 22:48:48,597 log 224 Not Found: /addresses/undefined/
 WARNING 2021-11-18 22:48:48,598 basehttp 161 "PUT /addresses/undefined/ HTTP/1.1" 404 23
 INFO 2021-11-18 22:48:52,495 basehttp 161 "GET /areas/ HTTP/1.1" 200 1204
 INFO 2021-11-18 22:48:52,512 basehttp 161 "GET /addresses/ HTTP/1.1" 200 190
+INFO 2021-11-18 23:14:57,025 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2021-11-18 23:14:58,119 autoreload 636 Watching for file changes with StatReloader
