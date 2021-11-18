@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'users',
     # 'users.apps.UsersConfig',
     'oauth',
+    'areas',
 ]
 
 MIDDLEWARE = [

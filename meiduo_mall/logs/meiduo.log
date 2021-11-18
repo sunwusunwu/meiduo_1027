@@ -2382,3 +2382,275 @@ INFO 2021-11-15 23:11:07,982 basehttp 161 "GET /user/ HTTP/1.1" 200 99
 INFO 2021-11-15 23:11:10,646 basehttp 161 "PUT /email/ HTTP/1.1" 200 36
 INFO 2021-11-15 23:11:16,518 basehttp 161 "GET /user/ HTTP/1.1" 200 99
 INFO 2021-11-15 23:11:30,340 basehttp 161 "PUT /email/ HTTP/1.1" 200 36
+INFO 2021-11-17 22:04:04,275 basehttp 161 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+WARNING 2021-11-17 22:04:04,618 log 224 Bad Request: /authorizations/
+WARNING 2021-11-17 22:04:04,618 basehttp 161 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-11-17 22:04:06,179 log 224 Bad Request: /authorizations/
+WARNING 2021-11-17 22:04:06,179 basehttp 161 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-11-17 22:04:10,050 log 224 Bad Request: /authorizations/
+WARNING 2021-11-17 22:04:10,050 basehttp 161 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-11-17 22:04:12,439 log 224 Bad Request: /authorizations/
+WARNING 2021-11-17 22:04:12,439 basehttp 161 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-11-17 22:04:13,922 log 224 Bad Request: /authorizations/
+WARNING 2021-11-17 22:04:13,923 basehttp 161 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-11-17 22:04:14,062 log 224 Bad Request: /authorizations/
+WARNING 2021-11-17 22:04:14,063 basehttp 161 "POST /authorizations/ HTTP/1.1" 400 68
+WARNING 2021-11-17 22:04:19,077 log 224 Bad Request: /authorizations/
+WARNING 2021-11-17 22:04:19,078 basehttp 161 "POST /authorizations/ HTTP/1.1" 400 68
+INFO 2021-11-17 22:04:49,932 basehttp 161 "GET /usernames/sunwu/count/ HTTP/1.1" 200 30
+INFO 2021-11-17 22:04:53,166 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
+INFO 2021-11-17 22:05:05,729 basehttp 161 "GET /mobiles/15805600944/count/ HTTP/1.1" 200 36
+INFO 2021-11-17 22:05:15,230 basehttp 161 "GET /mobiles/15805600944/count/ HTTP/1.1" 200 36
+INFO 2021-11-17 22:05:15,231 views 26 获取的验证码:809551
+INFO 2021-11-17 22:05:15,673 basehttp 161 "GET /sms_codes/15805600944/ HTTP/1.1" 200 16
+INFO 2021-11-17 22:05:21,391 basehttp 161 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2021-11-17 22:05:21,402 basehttp 161 "GET /mobiles/15805600944/count/ HTTP/1.1" 200 36
+INFO 2021-11-17 22:05:21,404 basehttp 161 "GET /usernames/sunwu4/count/ HTTP/1.1" 200 31
+INFO 2021-11-17 22:05:21,825 basehttp 161 "POST /users/ HTTP/1.1" 201 327
+INFO 2021-11-17 22:05:25,312 basehttp 161 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2021-11-17 22:05:25,364 basehttp 161 "GET /user/ HTTP/1.1" 200 83
+WARNING 2021-11-17 22:05:36,095 log 224 Not Found: /areas/
+WARNING 2021-11-17 22:05:36,096 basehttp 161 "GET /areas/ HTTP/1.1" 404 3594
+WARNING 2021-11-17 22:06:05,440 log 224 Not Found: /areas/
+WARNING 2021-11-17 22:06:05,441 basehttp 161 "GET /areas/ HTTP/1.1" 404 3594
+INFO 2021-11-17 22:06:08,030 basehttp 161 "GET /user/ HTTP/1.1" 200 83
+WARNING 2021-11-17 22:06:10,279 log 224 Not Found: /areas/
+WARNING 2021-11-17 22:06:10,280 basehttp 161 "GET /areas/ HTTP/1.1" 404 3594
+INFO 2021-11-17 22:29:36,460 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2021-11-17 22:29:37,707 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-17 22:29:48,842 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2021-11-17 22:29:49,955 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-17 22:30:09,433 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2021-11-17 22:30:10,959 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:14:27,716 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:14:31,638 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:17:48,762 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:17:49,660 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:17:54,125 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:17:55,164 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:19:47,320 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:19:48,355 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:19:53,826 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:19:54,777 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:20:01,292 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:20:02,411 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:20:20,446 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:20:21,469 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:20:28,041 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:20:28,988 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:20:32,498 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:20:33,505 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:20:41,124 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:20:42,080 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:20:47,570 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:20:48,416 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:20:53,989 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:20:54,894 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:20:59,283 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:00,135 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:21:07,718 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:08,524 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:21:14,033 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:14,858 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:21:22,482 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:23,294 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:21:27,809 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:28,665 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:21:37,372 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:38,347 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:21:46,024 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:46,916 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:21:49,354 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:50,509 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:21:56,126 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:21:56,930 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:22:02,517 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:22:03,372 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:22:19,253 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:22:20,153 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:22:34,020 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:22:34,870 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:22:43,492 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:22:44,429 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:22:49,997 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:22:50,782 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:22:52,068 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:22:52,995 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:22:58,432 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:22:59,741 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:23:10,476 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:23:11,281 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:23:38,759 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:23:39,581 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:23:46,133 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:23:47,054 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:23:49,460 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:23:50,216 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:24:22,941 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:24:23,771 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:24:32,365 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:24:33,433 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:24:39,914 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:24:40,728 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:24:57,754 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:24:58,618 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:25:03,101 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:25:03,914 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:26:00,702 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:26:01,515 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:26:34,182 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:26:34,990 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:26:40,481 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:26:41,276 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:26:42,568 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:26:43,396 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:26:46,841 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:26:47,660 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:27:51,909 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:27:52,756 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:27:56,167 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:27:57,140 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:27:59,618 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:28:00,575 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:28:19,854 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:28:20,621 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:29:16,515 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:29:17,336 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:29:24,914 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:29:26,021 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:29:30,531 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:29:31,422 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:29:49,433 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:29:50,213 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:29:56,735 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:29:57,728 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:30:09,497 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:30:10,322 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:30:11,629 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:30:12,599 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:30:22,277 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:30:23,214 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:30:29,816 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:30:30,615 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:30:40,454 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:30:41,305 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 20:30:50,046 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 20:30:50,868 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:12:53,513 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:12:54,491 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:13:11,631 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:13:12,449 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:13:33,702 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:13:34,566 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:14:15,630 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:14:16,534 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:14:26,278 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:14:27,119 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:14:30,526 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:14:31,457 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:14:38,090 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:14:38,961 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:23:00,885 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:23:01,700 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:23:15,564 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:23:16,519 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:23:36,651 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:23:37,547 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:23:46,249 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:23:47,269 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:23:54,886 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:23:55,836 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:24:00,368 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:24:01,387 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:24:04,865 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:24:05,846 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:24:16,703 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:24:17,657 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:24:32,531 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:24:33,584 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:24:36,967 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:24:37,801 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:24:39,126 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:24:40,058 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:24:46,759 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:24:47,765 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:24:53,244 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:24:54,190 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:25:00,705 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:25:01,670 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:25:02,986 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:25:03,946 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:25:06,291 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:25:07,313 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:25:13,841 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:25:14,829 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 21:25:18,287 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 21:25:19,078 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:00:09,625 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:00:10,444 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:00:21,067 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:00:22,039 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:00:28,561 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:00:29,409 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:00:36,112 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:00:37,126 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:00:43,624 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:00:44,869 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:00:48,271 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:00:49,309 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:00:52,744 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:00:53,855 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:00:59,375 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:01:00,368 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:01:12,229 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:01:13,200 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:01:18,759 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:01:19,829 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:01:25,353 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:01:26,357 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:01:30,843 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:01:31,717 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:01:35,109 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:01:36,164 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:01:39,572 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:01:40,504 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:01:51,183 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:01:52,142 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:02:09,118 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:02:10,120 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:38:05,262 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2021-11-18 22:38:06,347 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:42:16,309 autoreload 250 F:\meiduo_mall\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2021-11-18 22:42:17,334 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:45:39,697 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-11-18 22:46:09,668 basehttp 161 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2021-11-18 22:46:09,825 log 224 Unauthorized: /user/
+WARNING 2021-11-18 22:46:09,826 basehttp 161 "GET /user/ HTTP/1.1" 401 35
+INFO 2021-11-18 22:46:12,274 basehttp 161 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2021-11-18 22:46:12,653 basehttp 161 "POST /authorizations/ HTTP/1.1" 200 227
+INFO 2021-11-18 22:46:12,732 basehttp 161 "GET /user/ HTTP/1.1" 200 99
+INFO 2021-11-18 22:46:15,314 basehttp 161 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2021-11-18 22:46:15,348 basehttp 161 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2021-11-18 22:46:15,354 basehttp 161 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2021-11-18 22:46:22,151 basehttp 161 "GET /areas/220000/ HTTP/1.1" 200 353
+INFO 2021-11-18 22:46:23,875 basehttp 161 "GET /areas/220300/ HTTP/1.1" 200 254
+INFO 2021-11-18 22:47:28,343 basehttp 161 "POST /addresses/ HTTP/1.1" 201 125
+INFO 2021-11-18 22:47:32,369 basehttp 161 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2021-11-18 22:47:32,384 basehttp 161 "GET /addresses/ HTTP/1.1" 200 190
+INFO 2021-11-18 22:47:34,720 basehttp 161 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2021-11-18 22:47:34,736 basehttp 161 "GET /addresses/ HTTP/1.1" 200 190
+INFO 2021-11-18 22:47:37,381 basehttp 161 "GET /areas/220000/ HTTP/1.1" 200 353
+INFO 2021-11-18 22:47:37,382 basehttp 161 "GET /areas/220300/ HTTP/1.1" 200 254
+INFO 2021-11-18 22:47:39,848 basehttp 161 "OPTIONS /addresses/undefined/ HTTP/1.1" 200 0
+WARNING 2021-11-18 22:47:39,855 log 224 Not Found: /addresses/undefined/
+WARNING 2021-11-18 22:47:39,856 basehttp 161 "PUT /addresses/undefined/ HTTP/1.1" 404 23
+WARNING 2021-11-18 22:48:30,435 log 224 Not Found: /addresses/undefined/
+WARNING 2021-11-18 22:48:30,436 basehttp 161 "PUT /addresses/undefined/ HTTP/1.1" 404 23
+WARNING 2021-11-18 22:48:35,568 log 224 Not Found: /addresses/undefined/
+WARNING 2021-11-18 22:48:35,569 basehttp 161 "PUT /addresses/undefined/ HTTP/1.1" 404 23
+WARNING 2021-11-18 22:48:42,345 log 224 Not Found: /addresses/undefined/
+WARNING 2021-11-18 22:48:42,346 basehttp 161 "PUT /addresses/undefined/ HTTP/1.1" 404 23
+WARNING 2021-11-18 22:48:48,597 log 224 Not Found: /addresses/undefined/
+WARNING 2021-11-18 22:48:48,598 basehttp 161 "PUT /addresses/undefined/ HTTP/1.1" 404 23
+INFO 2021-11-18 22:48:52,495 basehttp 161 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2021-11-18 22:48:52,512 basehttp 161 "GET /addresses/ HTTP/1.1" 200 190

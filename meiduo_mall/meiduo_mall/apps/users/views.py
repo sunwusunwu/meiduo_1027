@@ -1,8 +1,13 @@
 from django.shortcuts import render
+from rest_framework.decorators import action
 from rest_framework.generics import CreateAPIView, RetrieveAPIView, UpdateAPIView
-from .serializers import CreateUserSerializer, UserDetailSerializer, EmailSerializer
+from rest_framework.mixins import UpdateModelMixin
+from rest_framework.viewsets import GenericViewSet
+
+from .serializers import CreateUserSerializer, UserDetailSerializer, EmailSerializer, UserAddressSerializer, \
+    AddressTitleSerializer
 from rest_framework.views import APIView
-from .models import User
+from .models import User, Address
 from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
 from rest_framework import status
@@ -66,3 +71,62 @@ class EmailVerifyView(APIView):
             return Response({'message': '激活失败'}, status=status.HTTP_400_BAD_REQUEST)
         user.is_active = True
         user.save()
+
+
+class AddressViewSet(UpdateModelMixin, GenericViewSet):
+    """用户收货地址增删改查"""
+    permission_classes = [IsAuthenticated]
+    serializer_class = UserAddressSerializer
+
+    # 获取地址查询集，方法重写，正向胡总和反向都可以查询
+    def get_queryset(self):
+        # return Address.objects.filter(is_deleted=False)
+        return self.request.user.addresses.filter(is_deleted=False)
+
+    # 新增用户地址
+    def create(self, request):
+        user = request.user
+        # count = user.addresses.all().count() # 反向关联查询
+        count = Address.objects.filter(user=user).count() # 正向查询
+        if count > 20:
+            return Response({'message':'收货地址数量达到上限'}, status=status.HTTP_400_BAD_REQUEST)
+        serializer = self.get_serializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+    # 获取地址列表
+    def list(self, request, *args, **kwargs):
+        queryset = self.get_queryset()
+        serializer = self.get_serializer(queryset, many=True)
+        user = self.request.user
+        return Response({
+            'user_id': user.id,
+            'default_address_id': user.default_address_id,
+            'limit': 20,
+            'addresses': serializer.data,
+        })
+
+    # 删除收货地址
+    def destroy(self, request, *args, **kwargs):
+        address = self.get_object()
+        address.is_deleted = True
+        address.save()
+        return Response(status=status.HTTP_204_NO_CONTENT)
+
+    # 修改收获地址标题
+    @action(methods=['put'], detail=True)
+    def title(self, request, pk=None):
+        address = self.get_object()
+        serializer = AddressTitleSerializer(instance=address, data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response(serializer.data)
+
+    # 设置默认地址
+    @action(methods=['put'], detail=True)
+    def status(self, request, pk=None):
+        address = self.get_object()
+        request.user.default_address = address
+        request.user.save()
+        return Response({'message': 'OK'}, status=status.HTTP_200_OK)
