@@ -10,7 +10,12 @@ class User(AbstractUser):
     """自定义用户类"""
     mobile = models.CharField(max_length=11, unique=True, verbose_name='手机号')
     email_active = models.BooleanField(default=False, verbose_name='邮箱验证状态')
+<<<<<<< HEAD
+    default_address = models.ForeignKey('Address', related_name='users', null=True, blank=True,
+                                        on_delete=models.SET_NULL, verbose_name='默认收获地址')
+=======
     default_address = models.ForeignKey('Address', related_name='users', null=True, blank=True, on_delete=models.SET_NULL, verbose_name='默认地址')
+>>>>>>> origin/master
 
     class Meta:
         db_table = 'tb_users'
@@ -69,4 +74,9 @@ class Address(BaseModel):
         verbose_name_plural = verbose_name
         ordering = ['-update_time']
 
+<<<<<<< HEAD
+    # def __str__(self):
+    #     return self.place
+=======
 
+>>>>>>> origin/master

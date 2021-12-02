@@ -10,7 +10,6 @@ from . import constants
 logger = logging.getLogger('django')
 
 
-
 class SMSCodeView(APIView):
     """短信验证码"""
     def get(self, request, mobile):
