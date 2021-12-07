@@ -16,16 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url, include
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^', include('verifications.urls')),  # 发短信模块
     url(r'^', include('users.urls')),  # 用户模块
     url(r'^oauth/', include('oauth.urls')),  # QQ模块
-<<<<<<< HEAD
     url(r'^', include('areas.urls')),  # 省市区地址模块
     url(r'^ckeditor/', include('ckeditor_uploader.urls')),  # 富文本编辑模块
-=======
-    url(r'^', include('areas.urls')), # 省市区模块
->>>>>>> origin/master
-
+    url(r'^', include('areas.urls')),  # 省市区模块
 ]

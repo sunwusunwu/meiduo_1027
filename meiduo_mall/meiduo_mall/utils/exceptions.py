@@ -8,6 +8,7 @@ from rest_framework import status
 
 logger = logging.getLogger('django')
 
+
 def exception_handler(exc, context):
     # 调用drf原生框架处理异常的方法
     response = drf_exception_handler(exc, context)

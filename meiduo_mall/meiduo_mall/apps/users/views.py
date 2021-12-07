@@ -1,13 +1,11 @@
 from django.shortcuts import render
 from rest_framework.decorators import action
 from rest_framework.generics import CreateAPIView, RetrieveAPIView, UpdateAPIView
-<<<<<<< HEAD
 from rest_framework.mixins import UpdateModelMixin, CreateModelMixin
 from rest_framework.viewsets import GenericViewSet, ModelViewSet
-=======
+
 from rest_framework.mixins import UpdateModelMixin
 from rest_framework.viewsets import GenericViewSet
->>>>>>> origin/master
 
 from .serializers import CreateUserSerializer, UserDetailSerializer, EmailSerializer, UserAddressSerializer, \
     AddressTitleSerializer
@@ -79,32 +77,22 @@ class EmailVerifyView(APIView):
             return Response({'message': '激活失败'}, status=status.HTTP_400_BAD_REQUEST)
         user.is_active = True
         user.save()
-<<<<<<< HEAD
         # 响应
         return Response({'message': 'ok'})
 
 
-class AddressViewSet(CreateModelMixin, UpdateModelMixin, GenericViewSet):
-=======
+class AddressViewSet( UpdateModelMixin, GenericViewSet):
 
-
-class AddressViewSet(UpdateModelMixin, GenericViewSet):
->>>>>>> origin/master
     """用户收货地址增删改查"""
     permission_classes = [IsAuthenticated]
     serializer_class = UserAddressSerializer
-
-<<<<<<< HEAD
     # 获取地址查询集，方法重写，正向和反向都可以查询
-=======
-    # 获取地址查询集，方法重写，正向胡总和反向都可以查询
->>>>>>> origin/master
+
     def get_queryset(self):
         # return Address.objects.filter(is_deleted=False)
         return self.request.user.addresses.filter(is_deleted=False)
 
     # 新增用户地址
-<<<<<<< HEAD
     def create(self, request, *args, **kwargs):
         user = request.user
         # count = user.addresses.all().count() # 反向关联查询
@@ -116,28 +104,14 @@ class AddressViewSet(UpdateModelMixin, GenericViewSet):
         # serializer.save()
         # return Response(serializer.data, status=status.HTTP_201_CREATED)
         return super().create(request, *args, **kwargs)
-=======
-    def create(self, request):
-        user = request.user
-        # count = user.addresses.all().count() # 反向关联查询
-        count = Address.objects.filter(user=user).count() # 正向查询
-        if count > 20:
-            return Response({'message':'收货地址数量达到上限'}, status=status.HTTP_400_BAD_REQUEST)
-        serializer = self.get_serializer(data=request.data)
-        serializer.is_valid(raise_exception=True)
-        serializer.save()
-        return Response(serializer.data, status=status.HTTP_201_CREATED)
->>>>>>> origin/master
 
     # 获取地址列表
     def list(self, request, *args, **kwargs):
         queryset = self.get_queryset()
         serializer = self.get_serializer(queryset, many=True)
         user = self.request.user
-<<<<<<< HEAD
+
         # logger.info('default_address:' + str(user.default_address))
-=======
->>>>>>> origin/master
         return Response({
             'user_id': user.id,
             'default_address_id': user.default_address_id,
@@ -165,14 +139,8 @@ class AddressViewSet(UpdateModelMixin, GenericViewSet):
     @action(methods=['put'], detail=True)
     def status(self, request, pk=None):
         address = self.get_object()
-<<<<<<< HEAD
         logger.info('address:' + str(request.user.default_address))
         request.user.default_address = address
         request.user.save()
         logger.info('user:' + str(request.user.default_address.title))
         return Response({'message': 'OK'}, status=status.HTTP_200_OK)
-=======
-        request.user.default_address = address
-        request.user.save()
-        return Response({'message': 'OK'}, status=status.HTTP_200_OK)
->>>>>>> origin/master

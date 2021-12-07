@@ -115,11 +115,8 @@ class EmailSerializer(serializers.ModelSerializer):
         return instance
 
 
-<<<<<<< HEAD
+
 class UserAddressSerializer(serializers.ModelSerializer):
-=======
-class UserAddressSerializer(serializers.Serializer):
->>>>>>> origin/master
     """用户收获地址序列化器"""
     province = serializers.StringRelatedField(read_only=True)
     city = serializers.StringRelatedField(read_only=True)
@@ -138,7 +135,6 @@ class UserAddressSerializer(serializers.Serializer):
             raise serializers.ValidationError('手机号格式不正确')
         return value
 
-<<<<<<< HEAD
     def create(self, validated_data):
         user = self.context['request'].user
         validated_data['user'] = user
@@ -150,18 +146,10 @@ class AddressTitleSerializer(serializers.ModelSerializer):
     """地址标题"""
     class Meta:
         model = Address
-        fields = ['title']
-=======
+
     def create(self, validate_data):
         user = self.context['request'].user
         validate_data['user'] = user
         address = Address.objects.create(**validate_data)
         return address
 
-
-class AddressTitleSerializer(serializers.Serializer):
-    """地址标题"""
-    class Meta:
-        model = Address
-        fields = ('title',)
->>>>>>> origin/master
